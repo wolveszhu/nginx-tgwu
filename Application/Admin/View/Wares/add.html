@@ -1,0 +1,198 @@
+<include file="Index/header" />
+<body>
+<div id="wrapper">
+
+    <include file="Index/nav"/>
+    <script src="__PUBLIC__/Js/kindeditor/kindeditor-all.js"></script>
+    <div id="page-wrapper">
+
+        <div class="container-fluid">
+
+            <!-- Page Heading -->
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <ol class="breadcrumb">
+                        <li>
+                            <i class="fa fa-dashboard"></i>  <a href="{:U('index')}">商品管理</a>
+                        </li>
+                        <li class="active">
+                            <i class="fa fa-edit"></i> 商品添加
+                        </li>
+                    </ol>
+                </div>
+            </div>
+            <!-- /.row -->
+
+            <div class="row">
+                <div class="col-lg-6">
+
+                    <form class="form-horizontal" id="singcms-form">
+                        <div class="form-group">
+                            <label for="warename" class="col-sm-2 control-label">名称:</label>
+                            <div class="col-sm-5">
+                                <input type="text" name="wareName" class="form-control" id="warename" placeholder="请填写名称">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label">商品分类:</label>
+                            <div class="col-sm-5">
+                                <select class="form-control" name="categoryId">
+                                    <option>==请选择分类==</option>
+                                    <foreach name="categorys" item="category">
+                                        <option value="{$category.id}">{$category.categoryname}</option>
+                                    </foreach>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label">商品封面图:</label>
+                            <div class="col-sm-5">
+                                <input id="file_upload"  type="file" name="wareCover">
+                                <img style="display: none" id="upload_org_code_img" src="" width="150" height="150">
+                                <input id="file_upload_image" name="wareCover" type="hidden" multiple="true" value="">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label">商品主题图:</label>
+                            <div class="col-sm-5">
+                                <input id="file_upload_mut"  type="file" name="wareMstChart">
+                                <!--<img style="display: none" id="upload_org_code_imgs" src="" width="150" height="150">-->
+                                <input id="file_upload_images" name="wareMstChart" type="hidden" multiple="true" value="">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="wareDesc" class="col-sm-2 control-label">描述:</label>
+                            <div class="col-sm-5">
+                                <textarea class="input js-editor" id="editor_singcms" name="wareDesc" rows="21" ></textarea>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="wareprice" class="col-sm-2 control-label">价格:</label>
+                            <div class="col-sm-5">
+                                <input type="number" name="warePrice" class="form-control" id="wareprice" placeholder="请填写价格">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label">商品状态:</label>
+                            <div class="col-sm-5">
+                                <select class="form-control" name="status">
+                                    <option>==请选择状态==</option>
+                                    <option value="-1">不上架</option>
+                                    <option value="1">上架</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="warecode" class="col-sm-2 control-label">货号:</label>
+                            <div class="col-sm-5">
+                                <input type="text" name="wareCode" class="form-control" id="warecode" placeholder="请填写货号">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="colltimes" class="col-sm-2 control-label">收藏次数:</label>
+                            <div class="col-sm-5">
+                                <input type="number" name="collTimes" class="form-control" id="colltimes" placeholder="收藏次数">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="browsetimes" class="col-sm-2 control-label">浏览次数:</label>
+                            <div class="col-sm-5">
+                                <input type="number" name="browseTimes" class="form-control" id="browsetimes" placeholder="浏览次数">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="inventory" class="col-sm-2 control-label">库存数:</label>
+                            <div class="col-sm-5">
+                                <input type="number" name="inventory" class="form-control" id="inventory" placeholder="库存数">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="discount" class="col-sm-2 control-label">折扣:</label>
+                            <div class="col-sm-5">
+                                <input type="number" name="discount" class="form-control" id="discount" placeholder="折扣（0-10）">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="cutprice" class="col-sm-2 control-label">降价:</label>
+                            <div class="col-sm-5">
+                                <input type="number" name="cutPrice" class="form-control" id="cutprice" placeholder="降价">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="isnew" class="col-sm-2 control-label">是否新品:</label>
+                            <div class="col-sm-5">
+                                <input type="radio" name="isNew" id="isnew" value="1"> 是
+                                <input type="radio" name="isNew" id="isnew" value="-1" checked> 否
+                            </div>
+
+                        </div>
+
+                        <div class="form-group">
+                            <label for="ishot" class="col-sm-2 control-label">是否热卖:</label>
+                            <div class="col-sm-5">
+                                <input type="radio" name="isHot" id="ishot" value="1"> 是
+                                <input type="radio" name="isHot" id="ishot" value="-1" checked> 否
+                            </div>
+
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-sm-offset-2 col-sm-10">
+                                <button type="button" class="btn btn-default" id="singcms-button-submit">提交</button>
+                            </div>
+                        </div>
+                    </form>
+
+
+                </div>
+
+            </div>
+            <!-- /.row -->
+
+        </div>
+        <!-- /.container-fluid -->
+
+    </div>
+    <!-- /#page-wrapper -->
+
+</div>
+<script>
+    var SCOPE = {
+        'save_url' : '{:U("add")}',
+        'jump_url' : '{:U("index")}',
+        'ajax_upload_image_url' : '{:U("Image/ajaxuploadimage")}',
+        'ajax_upload_swf' : '__PUBLIC__/Js/uploadify/uploadify.swf',
+        'root' : '__ROOT__',
+    };
+
+</script>
+<!-- /#wrapper -->
+<script src="__PUBLIC__/Admin/Js/image.js"></script>
+<script>
+    // 6.2
+    KindEditor.ready(function(K) {
+        window.editor = K.create('#editor_singcms',{
+            uploadJson : '',
+            items: [
+                'fontname', 'fontsize', '|', 'forecolor', 'hilitecolor', 'bold', 'italic', 'underline',
+                'removeformat', '|', 'justifyleft', 'justifycenter', 'justifyright', 'insertorderedlist',
+                'insertunorderedlist', '|','copy','cut','paste', '|', 'emoticons'],
+            afterBlur : function(){this.sync();}, //
+        });
+    });
+</script>
+<include file="Index/footer" />

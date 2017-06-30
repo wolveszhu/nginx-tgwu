@@ -1,0 +1,39 @@
+[ 2017-06-26T13:48:47+08:00 ] ::1 /tangguowu/index.php/Ware/index/id/30.html
+ERR: 1146:Table 'tangguowu.tgwu_ware' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tgwu_ware`
+
+[ 2017-06-26T14:29:35+08:00 ] ::1 /tangguowu/index.php/newProduct/more.html
+ERR: 无法加载控制器:NewProduct
+
+[ 2017-06-26T14:39:17+08:00 ] 192.168.18.193 /tangguowu/index.php/newProduct/more.html
+ERR: 无法加载控制器:NewProduct
+
+[ 2017-06-26T15:14:58+08:00 ] ::1 /tangguowu/index.php/Ware/hotter.html
+ERR: Think\Model:getWareHot方法不存在！
+
+[ 2017-06-26T15:41:24+08:00 ] ::1 /tangguowu/index.php/newProduct/more.html
+ERR: 无法加载控制器:NewProduct
+
+[ 2017-06-26T15:44:51+08:00 ] ::1 /tangguowu/index.php/Ware/hotter.html
+ERR: Think\Model:getWareHot方法不存在！
+
+[ 2017-06-26T16:06:19+08:00 ] ::1 /tangguowu/index.php/newProduct/more.html
+ERR: 无法加载控制器:NewProduct
+
+[ 2017-06-26T17:56:24+08:00 ] ::1 /tangguowu/index.php/Index/collect.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0040s ]
+SQL: UPDATE `tgwu_wares` SET `collTimes`=collTimes+1 WHERE ( id = 17 ) [ RunTime:0.2600s ]
+
+[ 2017-06-26T17:58:59+08:00 ] ::1 /tangguowu/index.php/Index/collect.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0030s ]
+SQL: UPDATE `tgwu_wares` SET `collTimes`=collTimes+1 WHERE ( id = 17 ) [ RunTime:0.0400s ]
+
+[ 2017-06-26T17:59:00+08:00 ] ::1 /tangguowu/index.php/Index/undefined
+ERR: 非法操作:undefined
+

@@ -1,0 +1,275 @@
+[ 2017-06-26T08:56:42+08:00 ] ::1 /tangguowu/admin.php/Login/check
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_admin` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `tgwu_admin` WHERE ( adminName="zhuyunling" ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-26T09:29:38+08:00 ] ::1 /tangguowu/admin.php/Category/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_category` [ RunTime:0.0030s ]
+SQL: UPDATE `tgwu_category` SET `categoryName`='饮料类',`categoryIcon`='/upload/2017/06/26/5950637f8eb96.png' WHERE ( id = 6 ) [ RunTime:0.0260s ]
+
+[ 2017-06-26T09:29:52+08:00 ] ::1 /tangguowu/admin.php/Category/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_category` [ RunTime:0.0030s ]
+SQL: UPDATE `tgwu_category` SET `categoryName`='玩具类',`categoryIcon`='/upload/2017/06/26/5950638f53213.png' WHERE ( id = 3 ) [ RunTime:0.0360s ]
+
+[ 2017-06-26T09:30:08+08:00 ] ::1 /tangguowu/admin.php/Category/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_category` [ RunTime:0.0030s ]
+SQL: UPDATE `tgwu_category` SET `categoryName`='卤食类',`categoryIcon`='/upload/2017/06/26/5950639f34587.png' WHERE ( id = 5 ) [ RunTime:0.0380s ]
+
+[ 2017-06-26T09:30:13+08:00 ] ::1 /tangguowu/admin.php/Category/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `tgwu_category` [ RunTime:0.0030s ]
+SQL: UPDATE `tgwu_category` SET `categoryName`='通讯类',`categoryIcon`='/upload/2017/06/19/594798557ea7e.png' WHERE ( id = 4 ) [ RunTime:0.0280s ]
+
+[ 2017-06-26T09:30:47+08:00 ] ::1 /tangguowu/admin.php/Category/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_category` [ RunTime:0.0030s ]
+SQL: UPDATE `tgwu_category` SET `categoryName`='通讯类',`categoryIcon`='/upload/2017/06/26/595063c59ce2d.png' WHERE ( id = 4 ) [ RunTime:0.0420s ]
+
+[ 2017-06-26T09:31:03+08:00 ] ::1 /tangguowu/admin.php/Category/setStatus.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_category` [ RunTime:0.0030s ]
+SQL: UPDATE `tgwu_category` SET `status`='1' WHERE ( id = 1 ) [ RunTime:0.0310s ]
+
+[ 2017-06-26T09:31:28+08:00 ] ::1 /tangguowu/admin.php/Category/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `tgwu_category` [ RunTime:0.0030s ]
+SQL: UPDATE `tgwu_category` SET `categoryName`='坚果类',`categoryIcon`='/upload/2017/06/26/595063eedb3ad.png' WHERE ( id = 1 ) [ RunTime:0.0400s ]
+
+[ 2017-06-26T09:31:33+08:00 ] ::1 /tangguowu/admin.php/Category/listorder.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_category` [ RunTime:0.0030s ]
+SQL: UPDATE `tgwu_category` SET `categorySort`='55' WHERE ( id=6 ) [ RunTime:0.0810s ]
+SQL: UPDATE `tgwu_category` SET `categorySort`='54' WHERE ( id=3 ) [ RunTime:0.0880s ]
+SQL: UPDATE `tgwu_category` SET `categorySort`='43' WHERE ( id=1 ) [ RunTime:0.0620s ]
+SQL: UPDATE `tgwu_category` SET `categorySort`='42' WHERE ( id=5 ) [ RunTime:0.0570s ]
+SQL: UPDATE `tgwu_category` SET `categorySort`='21' WHERE ( id=4 ) [ RunTime:0.0310s ]
+
+[ 2017-06-26T09:34:57+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id D:\Apache24\htdocs\tangguowu\Application\Admin\Controller\WaresController.class.php 第 57 行.
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0030s ]
+SQL: INSERT INTO `tgwu_wares` (`wareName`,`categoryId`,`wareCover`,`wareMstChart`,`wareDesc`,`warePrice`,`status`,`wareCode`,`collTimes`,`browseTimes`,`inventory`,`discount`,`cutPrice`,`isNew`,`isHot`) VALUES ('正宗山货薯条','1','/upload/2017/06/26/595064885d330.png','/upload/2017/06/26/5950648e97e15.png','<pre>抹茶味正宗山货薯条<span style=\"font-family:\'Source Code Pro\';\">500g/</span>袋</pre>','10','1','123456','23','54','52','0','0','1','1') [ RunTime:0.0910s ]
+
+[ 2017-06-26T09:36:57+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\Apache24\htdocs\tangguowu\Application\Admin\Controller\WaresController.class.php 第 57 行.
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0030s ]
+SQL: INSERT INTO `tgwu_wares` (`wareName`,`categoryId`,`wareCover`,`wareMstChart`,`wareDesc`,`warePrice`,`status`,`wareCode`,`collTimes`,`browseTimes`,`inventory`,`discount`,`cutPrice`,`isNew`,`isHot`) VALUES ('新疆葡萄干','1','/upload/2017/06/26/595064ef8e3f7.png','/upload/2017/06/26/595064f33917f.png','<pre>新疆葡萄干<span style=\"font-family:\'Source Code Pro\';\">500g/</span>袋</pre>','20','1','1265435','56','98','45','0','0','1','1') [ RunTime:0.0320s ]
+
+[ 2017-06-26T09:38:00+08:00 ] ::1 /tangguowu/admin.php/Category/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_category` [ RunTime:0.0030s ]
+SQL: INSERT INTO `tgwu_category` (`categoryName`,`categoryIcon`,`status`,`id`) VALUES ('食品类','/upload/2017/06/26/5950657555c42.png','1','0') [ RunTime:0.0340s ]
+
+[ 2017-06-26T09:38:16+08:00 ] ::1 /tangguowu/admin.php/Category/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tgwu_category` [ RunTime:0.0030s ]
+SQL: INSERT INTO `tgwu_category` (`categoryName`,`categoryIcon`,`status`,`id`) VALUES ('进口类','/upload/2017/06/26/5950658628d5c.png','1','0') [ RunTime:0.0480s ]
+
+[ 2017-06-26T09:38:35+08:00 ] ::1 /tangguowu/admin.php/Category/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `tgwu_category` [ RunTime:0.0030s ]
+SQL: INSERT INTO `tgwu_category` (`categoryName`,`categoryIcon`,`status`,`id`) VALUES ('肉食类','/upload/2017/06/26/595065931a5e0.png','1','0') [ RunTime:0.0350s ]
+
+[ 2017-06-26T09:39:11+08:00 ] ::1 /tangguowu/admin.php/Wares/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0030s ]
+SQL: DELETE FROM `tgwu_wares` WHERE ( id = 5 ) [ RunTime:0.0790s ]
+
+[ 2017-06-26T09:39:16+08:00 ] ::1 /tangguowu/admin.php/Wares/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0030s ]
+SQL: DELETE FROM `tgwu_wares` WHERE ( id = 2 ) [ RunTime:0.0270s ]
+
+[ 2017-06-26T09:39:20+08:00 ] ::1 /tangguowu/admin.php/Wares/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0110s ]
+SQL: DELETE FROM `tgwu_wares` WHERE ( id = 1 ) [ RunTime:0.0290s ]
+
+[ 2017-06-26T09:39:24+08:00 ] ::1 /tangguowu/admin.php/Wares/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0030s ]
+SQL: DELETE FROM `tgwu_wares` WHERE ( id = 3 ) [ RunTime:0.0310s ]
+
+[ 2017-06-26T09:41:45+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\Apache24\htdocs\tangguowu\Application\Admin\Controller\WaresController.class.php 第 57 行.
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0030s ]
+SQL: INSERT INTO `tgwu_wares` (`wareName`,`categoryId`,`wareCover`,`wareMstChart`,`wareDesc`,`warePrice`,`status`,`wareCode`,`collTimes`,`browseTimes`,`inventory`,`discount`,`cutPrice`,`isNew`,`isHot`) VALUES ('竹炭花生','7','/upload/2017/06/26/595066364ac9e.png','/upload/2017/06/26/595066397688c.png','<pre>竹炭花生正宗台湾口味<span style=\"font-family:\'Source Code Pro\';\">500g/</span>袋</pre>','12','1','5628952','55','152','25','0','0','1','1') [ RunTime:0.0330s ]
+
+[ 2017-06-26T09:42:46+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\Apache24\htdocs\tangguowu\Application\Admin\Controller\WaresController.class.php 第 57 行.
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0030s ]
+SQL: INSERT INTO `tgwu_wares` (`wareName`,`categoryId`,`wareCover`,`wareMstChart`,`wareDesc`,`warePrice`,`status`,`wareCode`,`collTimes`,`browseTimes`,`inventory`,`discount`,`cutPrice`,`isNew`,`isHot`) VALUES ('榴莲干','7','/upload/2017/06/26/59506674ead7e.png','/upload/2017/06/26/5950667814c68.png','<pre>榴莲干<span style=\"font-family:\'Source Code Pro\';\">450g/</span>袋</pre>','32','1','986554','51','653','25','0','0','1','1') [ RunTime:0.0410s ]
+
+[ 2017-06-26T10:11:21+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-26T10:11:28+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0030s ]
+SQL: UPDATE `tgwu_wares` SET `wareName`='正宗山货薯条',`categoryId`='1',`wareCover`='/upload/2017/06/26/595064885d330.png',`wareMstChart`='/upload/2017/06/26/5950648e97e15.png',`wareDesc`='付光辉的风格',`warePrice`='10',`status`='1',`wareCode`='123456',`collTimes`='23',`browseTimes`='54',`inventory`='52',`discount`='0',`cutPrice`='0',`isNew`='1',`isHot`='1' WHERE ( id=17 ) [ RunTime:0.0390s ]
+
+[ 2017-06-26T10:18:32+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0020s ]
+SQL: UPDATE `tgwu_wares` SET `wareName`='正宗山货薯条',`categoryId`='1',`wareCover`='/upload/2017/06/26/595064885d330.png',`wareMstChart`='/upload/2017/06/26/5950648e97e15.png',`wareDesc`='付光辉的风格舒服的',`warePrice`='10',`status`='1',`wareCode`='123456',`collTimes`='23',`browseTimes`='54',`inventory`='52',`discount`='0',`cutPrice`='0',`isNew`='1',`isHot`='1' WHERE ( id=17 ) [ RunTime:0.0350s ]
+
+[ 2017-06-26T10:18:50+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0170s ]
+SQL: UPDATE `tgwu_wares` SET `wareName`='新疆葡萄干',`categoryId`='1',`wareCover`='/upload/2017/06/26/595064ef8e3f7.png',`wareMstChart`='/upload/2017/06/26/595064f33917f.png',`wareDesc`='<pre>新疆葡萄干500g/袋</pre>',`warePrice`='20',`status`='1',`wareCode`='1265435',`collTimes`='56',`browseTimes`='98',`inventory`='45',`discount`='0',`cutPrice`='0',`isNew`='1',`isHot`='1' WHERE ( id=18 ) [ RunTime:0.0320s ]
+
+[ 2017-06-26T10:19:25+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0030s ]
+SQL: UPDATE `tgwu_wares` SET `wareName`='新疆葡萄干',`categoryId`='1',`wareCover`='/upload/2017/06/26/595064ef8e3f7.png',`wareMstChart`='/upload/2017/06/26/595064f33917f.png',`wareDesc`='<pre>新疆葡萄干500g/袋
+</pre>',`warePrice`='20',`status`='1',`wareCode`='1265435',`collTimes`='56',`browseTimes`='98',`inventory`='45',`discount`='0',`cutPrice`='0',`isNew`='1',`isHot`='1' WHERE ( id=18 ) [ RunTime:0.0850s ]
+
+[ 2017-06-26T10:24:34+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0180s ]
+SQL: UPDATE `tgwu_wares` SET `wareName`='新疆葡萄干',`categoryId`='1',`wareCover`='/upload/2017/06/26/595064ef8e3f7.png',`wareMstChart`='/upload/2017/06/26/595064f33917f.png',`wareDesc`='<pre>新疆葡萄干500g/袋<span><span> </span></span></pre>',`warePrice`='20',`status`='1',`wareCode`='1265435',`collTimes`='56',`browseTimes`='98',`inventory`='45',`discount`='0',`cutPrice`='0',`isNew`='1',`isHot`='1' WHERE ( id=18 ) [ RunTime:0.0280s ]
+
+[ 2017-06-26T10:25:00+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0020s ]
+SQL: UPDATE `tgwu_wares` SET `wareName`='正宗山货薯条',`categoryId`='1',`wareCover`='/upload/2017/06/26/595064885d330.png',`wareMstChart`='/upload/2017/06/26/5950648e97e15.png',`wareDesc`='<p>
+	付光辉的风格舒服的是电风扇的
+</p>
+<p>
+	是电风扇的
+</p>',`warePrice`='10',`status`='1',`wareCode`='123456',`collTimes`='23',`browseTimes`='54',`inventory`='52',`discount`='0',`cutPrice`='0',`isNew`='1',`isHot`='1' WHERE ( id=17 ) [ RunTime:0.0300s ]
+
+[ 2017-06-26T10:26:31+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0030s ]
+SQL: UPDATE `tgwu_wares` SET `wareName`='新疆葡萄干',`categoryId`='1',`wareCover`='/upload/2017/06/26/595064ef8e3f7.png',`wareMstChart`='/upload/2017/06/26/595064f33917f.png',`wareDesc`='新疆葡萄干500g/袋',`warePrice`='20',`status`='1',`wareCode`='1265435',`collTimes`='56',`browseTimes`='98',`inventory`='45',`discount`='0',`cutPrice`='0',`isNew`='1',`isHot`='1' WHERE ( id=18 ) [ RunTime:0.0340s ]
+
+[ 2017-06-26T10:27:13+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0030s ]
+SQL: UPDATE `tgwu_wares` SET `wareName`='竹炭花生',`categoryId`='7',`wareCover`='/upload/2017/06/26/595066364ac9e.png',`wareMstChart`='/upload/2017/06/26/595066397688c.png',`wareDesc`='<pre>竹炭花生正宗台湾口味500g/袋</pre>',`warePrice`='12',`status`='1',`wareCode`='5628952',`collTimes`='55',`browseTimes`='152',`inventory`='25',`discount`='0',`cutPrice`='0',`isNew`='1',`isHot`='1' WHERE ( id=19 ) [ RunTime:0.0350s ]
+
+[ 2017-06-26T10:27:38+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0020s ]
+SQL: UPDATE `tgwu_wares` SET `wareName`='竹炭花生',`categoryId`='7',`wareCover`='/upload/2017/06/26/595066364ac9e.png',`wareMstChart`='/upload/2017/06/26/595066397688c.png',`wareDesc`='竹炭花生正宗台湾口味500g/袋',`warePrice`='12',`status`='1',`wareCode`='5628952',`collTimes`='55',`browseTimes`='152',`inventory`='25',`discount`='0',`cutPrice`='0',`isNew`='1',`isHot`='1' WHERE ( id=19 ) [ RunTime:0.0320s ]
+
+[ 2017-06-26T10:28:02+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0040s ]
+SQL: UPDATE `tgwu_wares` SET `wareName`='榴莲干',`categoryId`='7',`wareCover`='/upload/2017/06/26/59506674ead7e.png',`wareMstChart`='/upload/2017/06/26/5950667814c68.png',`wareDesc`='<pre>榴莲干450g/袋
+</pre>',`warePrice`='32',`status`='1',`wareCode`='986554',`collTimes`='51',`browseTimes`='653',`inventory`='25',`discount`='0',`cutPrice`='0',`isNew`='1',`isHot`='1' WHERE ( id=20 ) [ RunTime:0.0270s ]
+
+[ 2017-06-26T10:28:18+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0030s ]
+SQL: UPDATE `tgwu_wares` SET `wareName`='竹炭花生',`categoryId`='7',`wareCover`='/upload/2017/06/26/595066364ac9e.png',`wareMstChart`='/upload/2017/06/26/595066397688c.png',`wareDesc`='竹炭花生正宗台湾口味500g/袋',`warePrice`='12',`status`='1',`wareCode`='5628952',`collTimes`='55',`browseTimes`='152',`inventory`='25',`discount`='0',`cutPrice`='0',`isNew`='1',`isHot`='1' WHERE ( id=21 ) [ RunTime:0.0300s ]
+
+[ 2017-06-26T10:28:33+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0030s ]
+SQL: UPDATE `tgwu_wares` SET `wareName`='榴莲干',`categoryId`='7',`wareCover`='/upload/2017/06/26/59506674ead7e.png',`wareMstChart`='/upload/2017/06/26/5950667814c68.png',`wareDesc`='榴莲干450g/袋',`warePrice`='32',`status`='1',`wareCode`='986554',`collTimes`='51',`browseTimes`='653',`inventory`='25',`discount`='0',`cutPrice`='0',`isNew`='1',`isHot`='1' WHERE ( id=20 ) [ RunTime:0.0360s ]
+
+[ 2017-06-26T10:28:52+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0030s ]
+SQL: UPDATE `tgwu_wares` SET `wareName`='正宗山货薯条',`categoryId`='1',`wareCover`='/upload/2017/06/26/595064885d330.png',`wareMstChart`='/upload/2017/06/26/5950648e97e15.png',`wareDesc`='抹茶味正宗山货薯条500g/袋',`warePrice`='10',`status`='1',`wareCode`='123456',`collTimes`='23',`browseTimes`='54',`inventory`='52',`discount`='0',`cutPrice`='0',`isNew`='1',`isHot`='1' WHERE ( id=22 ) [ RunTime:0.0280s ]
+
+[ 2017-06-26T10:31:42+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0030s ]
+SQL: UPDATE `tgwu_wares` SET `wareName`='正宗山货薯条',`categoryId`='1',`wareCover`='/upload/2017/06/26/595064885d330.png',`wareMstChart`='/upload/2017/06/26/5950648e97e15.png',`wareDesc`='<p>
+	付光辉的风格舒服的是电风扇的
+</p>',`warePrice`='10',`status`='1',`wareCode`='123456',`collTimes`='23',`browseTimes`='54',`inventory`='52',`discount`='0',`cutPrice`='0',`isNew`='1',`isHot`='1' WHERE ( id=17 ) [ RunTime:0.0320s ]
+
+[ 2017-06-26T10:32:12+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0030s ]
+SQL: UPDATE `tgwu_wares` SET `wareName`='正宗山货薯条',`categoryId`='1',`wareCover`='/upload/2017/06/26/595064885d330.png',`wareMstChart`='/upload/2017/06/26/5950648e97e15.png',`wareDesc`='付光辉的风格舒服的是电风扇的',`warePrice`='10',`status`='1',`wareCode`='123456',`collTimes`='23',`browseTimes`='54',`inventory`='52',`discount`='0',`cutPrice`='0',`isNew`='1',`isHot`='1' WHERE ( id=17 ) [ RunTime:0.0290s ]
+
+[ 2017-06-26T14:07:31+08:00 ] ::1 /tangguowu/admin.php/User/update.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_user` [ RunTime:0.0030s ]
+SQL: SELECT `password` FROM `tgwu_user` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `tgwu_user` SET `nickName`='zhuyl',`password`='37e48a6c034fcbf31e0fd90f1ab2946c',`userPhoto`='/upload/2017/06/26/5950a49da3979.png',`userCollNum`='6',`status`='1' WHERE ( id=1 ) [ RunTime:0.0500s ]
+

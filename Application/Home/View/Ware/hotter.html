@@ -1,0 +1,43 @@
+<include file="Index/header"/>
+<body id="body">
+<!--新品上市-->
+<div class="container">
+    <div class="row">
+        <div class="col-xs-3 ret"><a href="{:U('Index/index')}" class="morePro"><img src="__PUBLIC__/Image/ret.png" class="retIcon"></a></div>
+        <div class="col-xs-6 new">爆款推荐</div>
+        <div class="col-xs-3"></div>
+    </div>
+    <div class="row">
+        <volist name="wares" id="ware">
+            <div class="col-xs-4 newpro">
+                <a href="{:U('Ware/index',array('id'=>$ware['id']))}">
+                    <img src="{$ware.warecover|getUrl}" class="proImg" alt="坚果">
+                </a>
+                <div class="desc">{$ware.waredesc}</div>
+                <div class="shoucang">
+                    <div class="row">
+                        <div class="col-xs-3"><img src="__PUBLIC__/Image/shoucang.png" attr-id="{$ware.id}" class="scPto ware-detail"></div>
+                        <div class="col-xs-9">{$ware.colltimes}人已收藏</div>
+                    </div>
+                </div>
+            </div>
+        </volist>
+    </div>
+</div>
+</body>
+<script>
+    var SCOPE = {
+        'coll_url' : '{:U("Index/collect")}',
+        'root' : '__ROOT__'
+    }
+</script>
+<script type="text/javascript">
+    var width = $(".newpro").width() * 0.9;
+    var height = width * 1.5;
+    var imgWH = $(".proImg");
+    imgWH.attr('width',width);
+    imgWH.attr('height',height);
+    var desc = $(".desc");
+    desc.attr('width',width);
+</script>
+</html>

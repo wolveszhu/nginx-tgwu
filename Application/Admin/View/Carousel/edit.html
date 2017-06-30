@@ -1,0 +1,100 @@
+<include file="Index/header" />
+<body>
+<div id="wrapper">
+
+    <include file="Index/nav"/>
+    <script src="__PUBLIC__/Js/kindeditor/kindeditor-all.js"></script>
+    <div id="page-wrapper">
+
+        <div class="container-fluid">
+
+            <!-- Page Heading -->
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <ol class="breadcrumb">
+                        <li>
+                            <i class="fa fa-dashboard"></i>  <a href="{:U('index')}">轮播图管理</a>
+                        </li>
+                        <li class="active">
+                            <i class="fa fa-edit"></i> 轮播图修改
+                        </li>
+                    </ol>
+                </div>
+            </div>
+            <!-- /.row -->
+
+            <div class="row">
+                <div class="col-lg-6">
+
+                    <form class="form-horizontal" id="singcms-form">
+                        <div class="form-group">
+                            <label for="carDesc" class="col-sm-2 control-label">描述:</label>
+                            <div class="col-sm-9">
+                                <input value="{$carousel.carouseldesc}" type="text" class="form-control" name="carouselDesc" id="carDesc" placeholder="描述">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label">轮播图缩图:</label>
+                            <div class="col-sm-5">
+                                <input id="file_upload"  type="file" multiple="true" name="carouselIcon">
+                                <img style="display: none" id="upload_org_code_img" src="{$carousel.carouselicon}" width="150" height="150">
+                                <input id="file_upload_image" name="carouselIcon" type="hidden" multiple="true" value="{$carousel.carouselicon}">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="skip" class="col-sm-2 control-label">跳转地址:</label>
+                            <div class="col-sm-5">
+                                <input value="{$carousel.carouselpath}" type="text" name="carouselPath" class="form-control" id="skip" placeholder="跳转地址">
+                            </div>
+                        </div>
+                        <input type="hidden" name="id" value="{$carousel.id}"/>
+
+                        <div class="form-group">
+                            <div class="col-sm-offset-2 col-sm-10">
+                                <button type="button" class="btn btn-default" id="singcms-button-submit">提交</button>
+                            </div>
+                        </div>
+                    </form>
+
+
+                </div>
+
+            </div>
+            <!-- /.row -->
+
+        </div>
+        <!-- /.container-fluid -->
+
+    </div>
+    <!-- /#page-wrapper -->
+
+</div>
+<script>
+    var SCOPE = {
+        'save_url' : '{:U("add")}',
+        'jump_url' : '{:U("index")}',
+        'ajax_upload_image_url' : '{:U("Image/ajaxuploadimage")}',
+        'ajax_upload_swf' : '__PUBLIC__/Js/uploadify/uploadify.swf',
+        'root' : '__ROOT__',
+    };
+
+</script>
+<!-- /#wrapper -->
+<script src="__PUBLIC__/Admin/Js/image.js"></script>
+<script>
+    // 6.2
+    KindEditor.ready(function(K) {
+        window.editor = K.create('#editor_singcms',{
+            uploadJson : '',
+            afterBlur : function(){this.sync();}, //
+        });
+    });
+</script>
+<script>
+    var thumb = "{$news.thumb}";
+    if(thumb) {
+        $("#upload_org_code_img").show();
+    }
+</script>
+<include file="Index/footer" />

@@ -1,0 +1,53 @@
+[ 2017-06-27T11:17:50+08:00 ] ::1 /tangguowu/admin.php/Login/check
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_admin` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `tgwu_admin` WHERE ( adminName="zhuyunling" ) LIMIT 1   [ RunTime:0.0060s ]
+
+[ 2017-06-27T11:20:19+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-27T13:07:02+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: id D:\Apache24\htdocs\tangguowu\Application\Admin\Controller\WaresController.class.php 第 57 行.
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0080s ]
+SQL: INSERT INTO `tgwu_wares` (`wareName`,`categoryId`,`wareCover`,`wareMstChart`,`wareDesc`,`warePrice`,`status`,`wareCode`,`collTimes`,`browseTimes`,`inventory`,`discount`,`cutPrice`,`isNew`,`isHot`) VALUES ('qqq','1','/upload/2017/06/27/5951e7daa0621.png','/upload/2017/06/27/5951e7e1e787a.png;/upload/2017/06/27/5951e7e1d3055.png;/upload/2017/06/27/5951e7e1c7ca2.png;/upload/2017/06/27/5951e7e1b5b8e.png;','qqqqqqqqq','2','1','23323','34','343','34','0','0','1','1') [ RunTime:0.2760s ]
+
+[ 2017-06-27T13:32:39+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0080s ]
+ERR: 1406:Data too long for column 'wareMstChart' at row 1
+ [ SQL语句 ] : UPDATE `tgwu_wares` SET `wareName`='qqq',`categoryId`='1',`wareCover`='/upload/2017/06/27/5951e7daa0621.png',`wareMstChart`='/upload/2017/06/27/5951edf2cf50f.png;/upload/2017/06/27/5951edf2c31bc.png;/upload/2017/06/27/5951edf2b10a7.png;/upload/2017/06/27/5951e7e1e787a.png;/upload/2017/06/27/5951e7e1d3055.png;/upload/2017/06/27/5951e7e1c7ca2.png;/upload/2017/06/27/5951e7e1b5b8e.png;',`wareDesc`='qqqqqqqqq',`warePrice`='2',`status`='1',`wareCode`='23323',`collTimes`='34',`browseTimes`='343',`inventory`='34',`discount`='0',`cutPrice`='0',`isNew`='1',`isHot`='1' WHERE ( id=35 )
+
+[ 2017-06-27T13:33:15+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0080s ]
+SQL: UPDATE `tgwu_wares` SET `wareName`='qqq',`categoryId`='1',`wareCover`='/upload/2017/06/27/5951e7daa0621.png',`wareMstChart`='/upload/2017/06/27/5951ee18c45f1.png;/upload/2017/06/27/5951e7e1e787a.png;/upload/2017/06/27/5951e7e1d3055.png;/upload/2017/06/27/5951e7e1c7ca2.png;/upload/2017/06/27/5951e7e1b5b8e.png;',`wareDesc`='qqqqqqqqq',`warePrice`='2',`status`='1',`wareCode`='23323',`collTimes`='34',`browseTimes`='343',`inventory`='34',`discount`='0',`cutPrice`='0',`isNew`='1',`isHot`='1' WHERE ( id=35 ) [ RunTime:0.0650s ]
+
+[ 2017-06-27T13:33:39+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0070s ]
+SQL: UPDATE `tgwu_wares` SET `wareName`='正宗山货薯条',`categoryId`='1',`wareCover`='/upload/2017/06/26/595064885d330.png',`wareMstChart`='/upload/2017/06/27/5951ee31444b9.png;/upload/2017/06/27/5951ee3130465.png;/upload/2017/06/27/5951ee31250b2.png;/upload/2017/06/27/5951ee3112f9e.png;/upload/2017/06/26/5950648e97e15.png',`wareDesc`='付光辉的风格舒服的是电风扇的',`warePrice`='10',`status`='1',`wareCode`='123456',`collTimes`='99',`browseTimes`='54',`inventory`='52',`discount`='0',`cutPrice`='0',`isNew`='1',`isHot`='1' WHERE ( id=17 ) [ RunTime:0.0340s ]
+
+[ 2017-06-27T13:33:52+08:00 ] ::1 /tangguowu/admin.php/Wares/listorder.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0070s ]
+SQL: UPDATE `tgwu_wares` SET `wareSort`='0' WHERE ( id=17 ) [ RunTime:0.0260s ]
+SQL: UPDATE `tgwu_wares` SET `wareSort`='0' WHERE ( id=18 ) [ RunTime:0.0410s ]
+SQL: UPDATE `tgwu_wares` SET `wareSort`='0' WHERE ( id=19 ) [ RunTime:0.0240s ]
+SQL: UPDATE `tgwu_wares` SET `wareSort`='0' WHERE ( id=20 ) [ RunTime:0.0280s ]
+SQL: UPDATE `tgwu_wares` SET `wareSort`='0' WHERE ( id=21 ) [ RunTime:0.0220s ]
+

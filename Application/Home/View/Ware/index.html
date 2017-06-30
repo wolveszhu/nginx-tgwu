@@ -1,0 +1,32 @@
+<include file="Index/header"/>
+<body id="body">
+<!--轮播图部分-->
+<div id="myCarousel" class="carousel slide">
+    <!-- 轮播（Carousel）项目 -->
+    <div class="carousel-inner tgDet">
+        <div class="item active">
+            <img src="{$ware.warecover|getUrl}" class="tangguo" alt="juhuasuan">
+        </div>
+        <div class="item">
+            <img src="__PUBLIC__/Home/Image/tangguoDet.png" class="tangguo" alt="zhui">
+        </div>
+    </div>
+    <!-- 轮播（Carousel）导航 -->
+    <a class="carousel-control left" href="#myCarousel" data-slide="prev"></a>
+    <a class="carousel-control right" href="#myCarousel" data-slide="next"></a>
+</div>
+<div class="desDet">
+    <div class="det">{$ware.waredesc}</div>
+    <div class="lable1">{$ware.warecode}</div>
+</div>
+</body>
+<script type="text/javascript">
+    var width = $(window).innerWidth();
+    var height = width / 1.5;
+    var tangguo = $(".tangguo");
+    tangguo.css({
+        width:width,
+        height:height
+    });
+</script>
+</html>

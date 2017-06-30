@@ -1,0 +1,450 @@
+[ 2017-06-28T09:02:50+08:00 ] 113.215.65.219 /%E8%AF%B7%E5%9C%A8%E5%BE%AE%E4%BF%A1%E4%B8%AD%E6%89%93%E5%BC%80%E9%93%BE%E6%8E%A5
+ERR: 无法加载控制器:请在微信中打开链接
+
+[ 2017-06-28T09:37:38+08:00 ] 113.215.65.219 /index.php?s=/connect/oauth2/authorize/appid/wx417c904a050a11e2/redirect_uri/http%3A%2F%2Fwxmsg.amailive.com%2Fwechat%2Fcallback%3Fredirect_url%3Dhttp%3A%2F%2Fwxmsg.amailive.com%2Findex.php%3Fc%3DInvicode%26a%3Dcallback/response_type/code/scope/snsapi_base/state/b46c01ce8f82af8758e2f32910571363.html
+ERR: 无法加载控制器:Connect
+
+[ 2017-06-28T09:37:48+08:00 ] 113.215.65.219 /index.php?s=/connect/oauth2/authorize/appid/wx417c904a050a11e2/redirect_uri/http%3A%2F%2Fwxmsg.amailive.com%2Fwechat%2Fcallback%3Fredirect_url%3Dhttp%3A%2F%2Fwxmsg.amailive.com%2Findex.php%3Fc%3DInvicode%26a%3Dcallback/response_type/code/scope/snsapi_base/state/b46c01ce8f82af8758e2f32910571363.html
+ERR: 无法加载控制器:Connect
+
+[ 2017-06-28T09:40:00+08:00 ] 113.215.65.219 /index.php?s=/connect/oauth2/authorize/appid/wx417c904a050a11e2/redirect_uri/http%3A%2F%2Fwxmsg.amailive.com%2Fwechat%2Fcallback%3Fredirect_url%3Dhttp%3A%2F%2Fwxmsg.amailive.com%2Findex.php%3Fc%3DInvicode%26a%3Dcallback/response_type/code/scope/snsapi_base/state/b46c01ce8f82af8758e2f32910571363.html
+ERR: 无法加载控制器:Connect
+
+[ 2017-06-28T09:42:35+08:00 ] 113.215.65.219 /index.php?s=/connect/oauth2/authorize/appid/wx417c904a050a11e2/redirect_uri/http%3A%2F%2Fwxmsg.amailive.com%2Fwechat%2Fcallback%3Fredirect_url%3Dhttp%3A%2F%2Fwxmsg.amailive.com%2Findex.php%3Fc%3DInvicode%26a%3Dcallback/response_type/code/scope/snsapi_base/state/b46c01ce8f82af8758e2f32910571363.html
+ERR: 无法加载控制器:Connect
+
+[ 2017-06-28T09:42:39+08:00 ] 113.215.65.219 /index.php?s=/connect/oauth2/authorize/appid/wx417c904a050a11e2/redirect_uri/http%3A%2F%2Fwxmsg.amailive.com%2Fwechat%2Fcallback%3Fredirect_url%3Dhttp%3A%2F%2Fwxmsg.amailive.com%2Findex.php%3Fc%3DInvicode%26a%3Dcallback/response_type/code/scope/snsapi_base/state/b46c01ce8f82af8758e2f32910571363.html
+ERR: 无法加载控制器:Connect
+
+[ 2017-06-28T09:42:54+08:00 ] 113.215.65.219 /index.php?s=/connect/oauth2/authorize/appid/wx417c904a050a11e2/redirect_uri/http%3A%2F%2Fwxmsg.amailive.com%2Fwechat%2Fcallback%3Fredirect_url%3Dhttp%3A%2F%2Fwxmsg.amailive.com%2Findex.php%3Fc%3DInvicode%26a%3Dcallback/response_type/code/scope/snsapi_base/state/b46c01ce8f82af8758e2f32910571363.html
+ERR: 无法加载控制器:Connect
+
+[ 2017-06-28T09:42:55+08:00 ] 113.215.65.219 /index.php?s=/connect/oauth2/authorize/appid/wx417c904a050a11e2/redirect_uri/http%3A%2F%2Fwxmsg.amailive.com%2Fwechat%2Fcallback%3Fredirect_url%3Dhttp%3A%2F%2Fwxmsg.amailive.com%2Findex.php%3Fc%3DInvicode%26a%3Dcallback/response_type/code/scope/snsapi_base/state/b46c01ce8f82af8758e2f32910571363.html
+ERR: 无法加载控制器:Connect
+
+[ 2017-06-28T09:44:08+08:00 ] 113.215.65.219 /index.php?s=/connect/oauth2/authorize/appid/wx417c904a050a11e2/redirect_uri/http%3A%2F%2Fwxmsg.amailive.com%2Fwechat%2Fcallback%3Fredirect_url%3Dhttp%3A%2F%2Fwxmsg.amailive.com%2Findex.php%3Fc%3DInvicode%26a%3Dcallback/response_type/code/scope/snsapi_base/state/b46c01ce8f82af8758e2f32910571363.html
+ERR: 无法加载控制器:Connect
+
+[ 2017-06-28T09:44:09+08:00 ] 113.215.65.219 /index.php?s=/connect/oauth2/authorize/appid/wx417c904a050a11e2/redirect_uri/http%3A%2F%2Fwxmsg.amailive.com%2Fwechat%2Fcallback%3Fredirect_url%3Dhttp%3A%2F%2Fwxmsg.amailive.com%2Findex.php%3Fc%3DInvicode%26a%3Dcallback/response_type/code/scope/snsapi_base/state/b46c01ce8f82af8758e2f32910571363.html
+ERR: 无法加载控制器:Connect
+
+[ 2017-06-28T09:44:11+08:00 ] 113.215.65.219 /index.php?s=/connect/oauth2/authorize/appid/wx417c904a050a11e2/redirect_uri/http%3A%2F%2Fwxmsg.amailive.com%2Fwechat%2Fcallback%3Fredirect_url%3Dhttp%3A%2F%2Fwxmsg.amailive.com%2Findex.php%3Fc%3DInvicode%26a%3Dcallback/response_type/code/scope/snsapi_base/state/b46c01ce8f82af8758e2f32910571363.html
+ERR: 无法加载控制器:Connect
+
+[ 2017-06-28T09:45:47+08:00 ] 113.215.65.219 /index.php?s=/connect/oauth2/authorize/appid/wx417c904a050a11e2/redirect_uri/http%3A%2F%2Fwxmsg.amailive.com%2Fwechat%2Fcallback%3Fredirect_url%3Dhttp%3A%2F%2Fwxmsg.amailive.com%2Findex.php%3Fc%3DInvicode%26a%3Dcallback/response_type/code/scope/snsapi_base/state/b46c01ce8f82af8758e2f32910571363.html
+ERR: 无法加载控制器:Connect
+
+[ 2017-06-28T09:46:01+08:00 ] 113.215.65.219 /index.php?s=/connect/oauth2/authorize/appid/wx417c904a050a11e2/redirect_uri/http%3A%2F%2Fwxmsg.amailive.com%2Fwechat%2Fcallback%3Fredirect_url%3Dhttp%3A%2F%2Fwxmsg.amailive.com%2Findex.php%3Fc%3DInvicode%26a%3Dcallback/response_type/code/scope/snsapi_base/state/b46c01ce8f82af8758e2f32910571363.html
+ERR: 无法加载控制器:Connect
+
+[ 2017-06-28T09:46:04+08:00 ] 113.215.65.219 /index.php?s=/connect/oauth2/authorize/appid/wx417c904a050a11e2/redirect_uri/http%3A%2F%2Fwxmsg.amailive.com%2Fwechat%2Fcallback%3Fredirect_url%3Dhttp%3A%2F%2Fwxmsg.amailive.com%2Findex.php%3Fc%3DInvicode%26a%3Dcallback/response_type/code/scope/snsapi_base/state/b46c01ce8f82af8758e2f32910571363.html
+ERR: 无法加载控制器:Connect
+
+[ 2017-06-28T09:46:17+08:00 ] 113.215.65.219 /index.php?s=/connect/oauth2/authorize/appid/wx417c904a050a11e2/redirect_uri/http%3A%2F%2Fwxmsg.amailive.com%2Fwechat%2Fcallback%3Fredirect_url%3Dhttp%3A%2F%2Fwxmsg.amailive.com%2Findex.php%3Fc%3DInvicode%26a%3Dcallback/response_type/code/scope/snsapi_base/state/b46c01ce8f82af8758e2f32910571363.html
+ERR: 无法加载控制器:Connect
+
+[ 2017-06-28T09:47:30+08:00 ] 113.215.65.219 /index.php?s=/connect/oauth2/authorize/appid/wx417c904a050a11e2/redirect_uri/http%3A%2F%2Fwxmsg.amailive.com%2FInvicode%2Fcallback%3Fredirect_url%3Dhttp%3A%2F%2Fwxmsg.amailive.com%2Findex.php%3Fc%3DInvicode%26a%3Dindex/response_type/code/scope/snsapi_base/state/b46c01ce8f82af8758e2f32910571363.html
+ERR: 无法加载控制器:Connect
+
+[ 2017-06-28T09:50:15+08:00 ] 113.215.65.219 /index.php?s=/connect/oauth2/authorize/appid/wx417c904a050a11e2/redirect_uri/http%3A%2F%2Fwxmsg.amailive.com%2FInvicode%2Fcallback%3Fredirect_url%3Dhttp%3A%2F%2Fwxmsg.amailive.com%2Findex.php%3Fc%3DInvicode%26a%3Dindex/response_type/code/scope/snsapi_base/state/b46c01ce8f82af8758e2f32910571363.html
+ERR: 无法加载控制器:Connect
+
+[ 2017-06-28T09:50:29+08:00 ] 113.215.65.219 /index.php?s=/connect/oauth2/authorize/appid/wx417c904a050a11e2/redirect_uri/http%3A%2F%2Fwxmsg.amailive.com%2FInvicode%2Fcallback%3Fredirect_url%3Dhttp%3A%2F%2Fwxmsg.amailive.com%2Findex.php%3Fc%3DInvicode%26a%3Dindex/response_type/code/scope/snsapi_base/state/b46c01ce8f82af8758e2f32910571363.html
+ERR: 无法加载控制器:Connect
+
+[ 2017-06-28T09:50:34+08:00 ] 113.215.65.219 /index.php?s=/connect/oauth2/authorize/appid/wx417c904a050a11e2/redirect_uri/http%3A%2F%2Fwxmsg.amailive.com%2FInvicode%2Fcallback%3Fredirect_url%3Dhttp%3A%2F%2Fwxmsg.amailive.com%2Findex.php%3Fc%3DInvicode%26a%3Dindex/response_type/code/scope/snsapi_base/state/b46c01ce8f82af8758e2f32910571363.html
+ERR: 无法加载控制器:Connect
+
+[ 2017-06-28T11:26:58+08:00 ] 113.215.65.219 /index.php?s=/Invicode/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `tgwu_user` WHERE ( openId =  ) LIMIT 1  
+
+[ 2017-06-28T11:28:12+08:00 ] 113.215.65.219 /index.php?s=/Invicode/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `tgwu_user` WHERE ( openId =  ) LIMIT 1  
+
+[ 2017-06-28T14:01:13+08:00 ] 113.215.65.219 /index.php?c=Index&a=callback&redirect_url=http://wxmsg.amailive.com/index.php?c=Index&a=callback
+ERR: 非法操作:callback
+
+[ 2017-06-28T14:01:37+08:00 ] 113.215.65.219 /index.php?c=Index&a=callback&redirect_url=http://wxmsg.amailive.com/index.php?c=Index&a=INDEX
+ERR: 模板不存在:./Application/Home/View/Index/INDEX.html
+
+[ 2017-06-28T14:01:51+08:00 ] 113.215.65.219 /index.php?c=asdf&a=callback&redirect_url=http://wxmsg.amailive.com/index.php?c=asdf&a=index
+ERR: 无法加载控制器:Asdf
+
+[ 2017-06-28T14:01:59+08:00 ] 113.215.65.219 /index.php?c=Index&a=callback&redirect_url=http://wxmsg.amailive.com/index.php?c=asdf&a=indexs
+ERR: 非法操作:indexs
+
+[ 2017-06-28T14:03:00+08:00 ] 113.215.65.219 /index.php?c=Index&a=callback&redirect_url=http://wxmsg.amailive.com/index.php?a=indexs&c=asdf
+ERR: 无法加载控制器:Asdf
+
+[ 2017-06-28T14:03:13+08:00 ] 113.215.65.219 /index.php?c=Index&a=callback&redirect_url=http://wxmsg.amailive.com/index.php?a=indexs&c=asdf?
+ERR: 无法加载控制器:Asdf?
+
+[ 2017-06-28T14:03:23+08:00 ] 113.215.65.219 /index.php?c=Index&a=callback&redirect_url=http://wxmsg.amailive.com/index.php?a=indexs&c=asdf&
+ERR: 无法加载控制器:Asdf
+
+[ 2017-06-28T14:16:23+08:00 ] 113.215.65.219 /index.php?s=/connect/oauth2/authorize/appid/wx417c904a050a11e2/redirect_uri/%2Findex.php%3Fc%3DInvicode%26a%3Dcallback/response_type/code/scope/snsapi_base/state/1708162e6fdd61328e310ff972d00e7d.html
+ERR: 无法加载控制器:Connect
+
+[ 2017-06-28T14:16:34+08:00 ] 113.215.65.219 /index.php?s=/connect/oauth2/authorize/appid/wx417c904a050a11e2/redirect_uri/%2Findex.php%3Fc%3DInvicode%26a%3Dcallback/response_type/code/scope/snsapi_base/state/1708162e6fdd61328e310ff972d00e7d.html
+ERR: 无法加载控制器:Connect
+
+[ 2017-06-28T14:16:43+08:00 ] 101.226.33.204 /index.php?s=/connect/oauth2/authorize/appid/wx417c904a050a11e2/redirect_uri/%2Findex.php%3Fc%3DInvicode%26a%3Dcallback/response_type/code/scope/snsapi_base/state/0f4bdf84f7c2fe62c4a3a57588a4cd79.html
+ERR: 无法加载控制器:Connect
+
+[ 2017-06-28T14:17:06+08:00 ] 113.215.65.219 /index.php?s=/connect/oauth2/authorize/appid/wx417c904a050a11e2/redirect_uri/c%3DInvicode%26a%3Dcallback/response_type/code/scope/snsapi_base/state/1708162e6fdd61328e310ff972d00e7d.html
+ERR: 无法加载控制器:Connect
+
+[ 2017-06-28T14:18:32+08:00 ] 113.215.65.219 /index.php?s=/index.php/a/signin/c/Invicode.html
+ERR: 无法加载控制器:Index.php
+
+[ 2017-06-28T14:18:51+08:00 ] 113.215.65.219 /index.php?s=/Invicode/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `tgwu_user` WHERE ( openId = { ) LIMIT 1  
+
+[ 2017-06-28T14:18:53+08:00 ] 101.226.65.107 /index.php?s=/index.php/a/signin/c/Invicode.html
+ERR: 无法加载控制器:Index.php
+
+[ 2017-06-28T14:18:53+08:00 ] 180.153.81.203 /index.php?s=/index.php/a/signin/c/Invicode.html
+ERR: 无法加载控制器:Index.php
+
+[ 2017-06-28T14:19:31+08:00 ] 113.215.65.219 /index.php?s=/Invicode/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `tgwu_user` WHERE ( openId = { ) LIMIT 1  
+
+[ 2017-06-28T14:19:37+08:00 ] 113.215.65.219 /index.php?s=/Invicode/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `tgwu_user` WHERE ( openId = { ) LIMIT 1  
+
+[ 2017-06-28T14:19:42+08:00 ] 113.215.65.219 /index.php?s=/Invicode/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `tgwu_user` WHERE ( openId = { ) LIMIT 1  
+
+[ 2017-06-28T14:20:08+08:00 ] 113.215.65.219 /index.php?s=/Invicode/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `tgwu_user` WHERE ( openId = { ) LIMIT 1  
+
+[ 2017-06-28T14:22:15+08:00 ] 113.215.65.219 /index.php?s=/Invicode/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `tgwu_user` WHERE ( openId = { ) LIMIT 1  
+
+[ 2017-06-28T14:22:19+08:00 ] 113.215.65.219 /index.php?s=/Invicode/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `tgwu_user` WHERE ( openId = { ) LIMIT 1  
+
+[ 2017-06-28T14:38:48+08:00 ] 113.215.65.219 /index.php?s=/Invicode/a=signin&c=Invicode.html
+ERR: 非法操作:a=signin
+
+[ 2017-06-28T14:38:58+08:00 ] 61.151.228.22 /index.php?s=/Invicode/a=signin&c=Invicode.html
+ERR: 非法操作:a=signin
+
+[ 2017-06-28T14:39:14+08:00 ] 113.215.65.219 /index.php?c=Invicode&a=callback&code=021zABUu1C06G90ZTwXu1SeLUu1zABUG&state=1708162e6fdd61328e310ff972d00e7d
+ERR: 1062:Duplicate entry 'nickname' for key 'nickName'
+ [ SQL语句 ] : INSERT INTO `tgwu_user` (`nickName`,`userPhoto`,`status`,`openId`) VALUES ('nickname','headimgurl','1','openid')
+
+[ 2017-06-28T14:39:23+08:00 ] 113.215.65.219 /index.php?c=Invicode&a=callback&code=081kKhde0aoVsz1XLjge0Bhdde0kKhdm&state=1708162e6fdd61328e310ff972d00e7d
+ERR: 1062:Duplicate entry 'nickname' for key 'nickName'
+ [ SQL语句 ] : INSERT INTO `tgwu_user` (`nickName`,`userPhoto`,`status`,`openId`) VALUES ('nickname','headimgurl','1','openid')
+
+[ 2017-06-28T14:39:35+08:00 ] 113.215.65.219 /index.php?c=Invicode&a=callback&code=021IVPi41A24EO1A3sk41w3Pi41IVPid&state=1708162e6fdd61328e310ff972d00e7d
+ERR: 1062:Duplicate entry 'nickname' for key 'nickName'
+ [ SQL语句 ] : INSERT INTO `tgwu_user` (`nickName`,`userPhoto`,`status`,`openId`) VALUES ('nickname','headimgurl','1','openid')
+
+[ 2017-06-28T14:39:41+08:00 ] 113.215.65.219 /index.php?c=Invicode&a=callback&code=011OKokW02MgpW1xRHhW0L9kkW0OKokk&state=1708162e6fdd61328e310ff972d00e7d
+ERR: 1062:Duplicate entry 'nickname' for key 'nickName'
+ [ SQL语句 ] : INSERT INTO `tgwu_user` (`nickName`,`userPhoto`,`status`,`openId`) VALUES ('nickname','headimgurl','1','openid')
+
+[ 2017-06-28T14:41:06+08:00 ] 113.215.65.219 /index.php?c=Invicode&a=callback&code=041vQIR21fxmvL1lbyR21d7PR21vQIRE&state=1708162e6fdd61328e310ff972d00e7d
+ERR: 1062:Duplicate entry 'nickname' for key 'nickName'
+ [ SQL语句 ] : INSERT INTO `tgwu_user` (`nickName`,`userPhoto`,`status`,`openId`) VALUES ('nickname','headimgurl','1','openid')
+
+[ 2017-06-28T14:41:46+08:00 ] 113.215.65.219 /index.php?c=Invicode&a=callback&code=051Cmm0w1BXbad0TzyXv1lqv0w1Cmm0I&state=8b84d8f332ddd93efb2e70cc048f3a9d
+ERR: 1062:Duplicate entry 'nickname' for key 'nickName'
+ [ SQL语句 ] : INSERT INTO `tgwu_user` (`nickName`,`userPhoto`,`status`,`openId`) VALUES ('nickname','headimgurl','1','openid')
+
+[ 2017-06-28T14:43:26+08:00 ] 113.215.65.219 /index.php?s=/Invicode/a=signin&c=Invicode.html
+ERR: 非法操作:a=signin
+
+[ 2017-06-28T14:43:58+08:00 ] 113.215.65.219 /index.php?c=Invicode&a=callback&code=021TtM2u1LGkn90bNP2u1KhY2u1TtM2B&state=1708162e6fdd61328e310ff972d00e7d
+ERR: 1062:Duplicate entry '哎灬情' for key 'nickName'
+ [ SQL语句 ] : INSERT INTO `tgwu_user` (`nickName`,`userPhoto`,`status`,`openId`) VALUES ('哎灬情','http://wx.qlogo.cn/mmopen/YOrMC3LjDib4xgLh0RVnOfc8CKDmLar9tP5lFHGaMQxStoOWCFXwicNwicbsJhwBBFfvBItwT8YcKwQDkKVvM9ELyVByKsujxsT/0','1','opUlWvwWM6E9kwGX86F4aiVe0s10')
+
+[ 2017-06-28T14:45:11+08:00 ] 113.215.65.219 /index.php?c=Index&a=callback&redirect_url=http://wxmsg.amailive.com/index.php?a=indexs&c=asdf&
+ERR: 无法加载控制器:Asdf
+
+[ 2017-06-28T14:45:31+08:00 ] 113.215.65.219 /index.php?c=Invicode&a=callback&code=051VoclA1B9GWh0tdNiA1bAdlA1Vocl6&state=1708162e6fdd61328e310ff972d00e7d
+ERR: 1062:Duplicate entry '哎灬情' for key 'nickName'
+ [ SQL语句 ] : INSERT INTO `tgwu_user` (`nickName`,`userPhoto`,`status`,`openId`) VALUES ('哎灬情','http://wx.qlogo.cn/mmopen/YOrMC3LjDib4xgLh0RVnOfc8CKDmLar9tP5lFHGaMQxStoOWCFXwicNwicbsJhwBBFfvBItwT8YcKwQDkKVvM9ELyVByKsujxsT/0','1','opUlWvwWM6E9kwGX86F4aiVe0s10')
+
+[ 2017-06-28T14:45:44+08:00 ] 101.226.33.218 /index.php?s=/Invicode/a=signin&c=Invicode.html
+ERR: 非法操作:a=signin
+
+[ 2017-06-28T14:55:31+08:00 ] 113.215.65.219 /index.php?c=Invicode&a=callback&code=021dQPIr0BNC3c1cp3Gr0h6PIr0dQPIF&state=1708162e6fdd61328e310ff972d00e7d
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"opUlWvwWM6E9kwGX86F4aiVe0s10"" ) LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `tgwu_user` WHERE ( openId = "opUlWvwWM6E9kwGX86F4aiVe0s10"" ) LIMIT 1  
+
+[ 2017-06-28T15:00:11+08:00 ] 113.215.65.219 /index.php?s=/Invicode/c=Invicode&a=signin.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T15:00:21+08:00 ] 113.215.65.219 /index.php?s=/Invicode/c=Invicode&a=signin.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T15:03:23+08:00 ] 113.215.65.219 /index.php?s=/Invicode/c=Invicode&a=index.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T15:03:33+08:00 ] 61.151.226.16 /index.php?s=/Invicode/c=Invicode&a=index.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T15:03:48+08:00 ] 113.215.65.219 /index.php?s=/Invicode/c=Invicode&a=index.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T15:04:17+08:00 ] 113.215.65.219 /index.php?s=/Invicode/c=Invicode&a=index.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T15:05:40+08:00 ] 113.215.65.219 /index.php?c=Invicode2&a=callback&code=031JDp9V0XK8wX1Nr88V0AFe9V0JDp9s&state=1708162e6fdd61328e310ff972d00e7d
+ERR: 无法加载控制器:Invicode2
+
+[ 2017-06-28T15:08:39+08:00 ] 113.215.65.219 /index.php?c=Invicode2&a=callback&code=011DlIyY0Q79EY10xbyY0reDyY0DlIyS&state=8b84d8f332ddd93efb2e70cc048f3a9d
+ERR: 无法加载控制器:Invicode2
+
+[ 2017-06-28T15:23:05+08:00 ] 101.226.68.141 /index.php?c=Invicode2&a=callback&code=0310MAz71vZtDP17cQz71QOAz710MAzW&state=1708162e6fdd61328e310ff972d00e7d
+ERR: 无法加载控制器:Invicode2
+
+[ 2017-06-28T15:23:29+08:00 ] 113.215.65.219 /index.php?c=invicode2&a=callback&code=011DlIyY0Q79EY10xbyY0reDyY0DlIyS&state=8b84d8f332ddd93efb2e70cc048f3a9d
+ERR: 无法加载控制器:Invicode2
+
+[ 2017-06-28T15:23:37+08:00 ] 113.215.65.219 /index.php?c=Invicode2&a=callback&code=011DlIyY0Q79EY10xbyY0reDyY0DlIyS&state=8b84d8f332ddd93efb2e70cc048f3a9d
+ERR: 无法加载控制器:Invicode2
+
+[ 2017-06-28T15:23:57+08:00 ] 101.226.68.141 /index.php?c=Invicode2&a=callback&code=051x9Whp0aGtNr1q9Yhp0dwKhp0x9Whf&state=1708162e6fdd61328e310ff972d00e7d
+ERR: 无法加载控制器:Invicode2
+
+[ 2017-06-28T15:27:02+08:00 ] 101.226.68.141 /index.php?c=Invicode2&a=callback&code=071RpHRQ1NoaF61y22SQ1j9ARQ1RpHRx&state=1708162e6fdd61328e310ff972d00e7d
+ERR: 无法加载控制器:Invicode2
+
+[ 2017-06-28T15:27:24+08:00 ] 101.226.68.141 /index.php?c=Invicode2&a=callback&code=081sw4j20Ug2JF1Ulph20tA5j20sw4jH&state=1708162e6fdd61328e310ff972d00e7d
+ERR: 无法加载控制器:Invicode2
+
+[ 2017-06-28T15:37:51+08:00 ] 113.215.65.219 /index.php?c=Invicode2&a=callback&code=011DlIyY0Q79EY10xbyY0reDyY0DlIyS&state=8b84d8f332ddd93efb2e70cc048f3a9d
+ERR: 无法加载控制器:Invicode2
+
+[ 2017-06-28T15:44:02+08:00 ] 101.226.68.141 /index.php?s=/Invicode/c=Invicode&a=index.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T15:44:28+08:00 ] 101.226.68.141 /index.php?s=/Invicode/c=Invicode&a=signin.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T15:45:26+08:00 ] 101.226.68.141 /index.php?c=Invicode1&a=callback&code=041eaCOj0pXrTj1HFoRj0T0uOj0eaCOp&state=1708162e6fdd61328e310ff972d00e7d
+ERR: 无法加载控制器:Invicode1
+
+[ 2017-06-28T15:45:50+08:00 ] 101.226.68.141 /index.php?c=Invicode2&a=callback&code=0715A4JY0XQIPY1EJAHY0W7bJY05A4J6&state=1708162e6fdd61328e310ff972d00e7d
+ERR: 无法加载控制器:Invicode2
+
+[ 2017-06-28T15:46:02+08:00 ] 101.226.68.141 /index.php?s=/Invicode/c=Invicode1&a=signin.html
+ERR: 非法操作:c=Invicode1
+
+[ 2017-06-28T15:46:13+08:00 ] 140.207.185.111 /index.php?s=/Invicode/c=Invicode1&a=signin.html
+ERR: 非法操作:c=Invicode1
+
+[ 2017-06-28T15:46:14+08:00 ] 101.226.68.141 /index.php?s=/Invicode/c=Invicode&a=signin.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T15:46:37+08:00 ] 101.226.68.141 /index.php?s=/Invicode/c=Invicode&a=signin.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T15:47:05+08:00 ] 101.226.68.141 /index.php?s=/Invicode/a=index&c=Invicode.html
+ERR: 非法操作:a=index
+
+[ 2017-06-28T15:47:21+08:00 ] 101.226.68.141 /index.php?s=/Invicode/c=Invicode&a=index.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T15:47:31+08:00 ] 101.226.33.240 /index.php?s=/Invicode/c=Invicode&a=index.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T15:47:42+08:00 ] 101.226.68.141 /index.php?s=/index.php/c/Invicode/a/index.html
+ERR: 无法加载控制器:Index.php
+
+[ 2017-06-28T15:48:09+08:00 ] 101.226.68.141 /index.php?s=/index.php/c/Invicode/a/index.html
+ERR: 无法加载控制器:Index.php
+
+[ 2017-06-28T15:50:18+08:00 ] 113.215.65.219 /index.php?s=/index.php/s/%2FInvicode%2Findex.html.html
+ERR: 无法加载控制器:Index.php
+
+[ 2017-06-28T15:50:28+08:00 ] 101.226.33.239 /index.php?s=/index.php/s/%2FInvicode%2Findex.html.html
+ERR: 无法加载控制器:Index.php
+
+[ 2017-06-28T15:50:28+08:00 ] 101.226.66.174 /index.php?s=/index.php/s/%2FInvicode%2Findex.html.html
+ERR: 无法加载控制器:Index.php
+
+[ 2017-06-28T15:51:53+08:00 ] 113.215.65.219 /index.php?s=/Invicode/c=Invicode&a=index.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T15:55:27+08:00 ] 113.215.65.219 /index.php?s=/Invicode/c=Invicode&a=index.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T15:57:08+08:00 ] 113.215.65.219 /index.php?s=/Invicode/c=Invicode&a=index.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T15:57:25+08:00 ] 113.215.65.219 /index.php?s=/Invicode/c=Invicode&a=index.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T15:57:35+08:00 ] 101.226.89.116 /index.php?s=/Invicode/c=Invicode&a=index.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T15:58:44+08:00 ] 101.226.68.213 /index.php?s=/Invicode/a=index&c=Invicode.html
+ERR: 非法操作:a=index
+
+[ 2017-06-28T16:00:01+08:00 ] 113.215.65.219 /index.php?s=/Invicode/c=Invicode&a=index.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T16:03:28+08:00 ] 113.215.65.219 /index.php?s=/Invicode/c=Invicode&a=index.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T16:05:36+08:00 ] 140.207.185.112 /index.php?s=/Invicode/a=index&c=Invicode.html
+ERR: 非法操作:a=index
+
+[ 2017-06-28T16:12:19+08:00 ] 113.215.65.219 /index.php?s=/Invicode/index.html
+ERR: 1146:Table 'tgwu.tgwu_invicode' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tgwu_invicode`
+
+[ 2017-06-28T16:13:23+08:00 ] 113.215.65.219 /index.php?s=/Invicode/index.html
+ERR: 1146:Table 'tgwu.tgwu_invicode' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tgwu_invicode`
+
+[ 2017-06-28T16:13:33+08:00 ] 113.215.65.219 /index.php?s=/Invicode/index.html
+ERR: 1146:Table 'tgwu.tgwu_invicode' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tgwu_invicode`
+
+[ 2017-06-28T16:18:30+08:00 ] 113.215.65.219 /index.php?s=/Invicode/index.html
+ERR: 1146:Table 'tgwu.tgwu_invicode' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tgwu_invicode`
+
+[ 2017-06-28T16:23:48+08:00 ] 140.207.54.80 /index.php?c=Wechat&a=auth&signature=81d04cd0466ec6769f328e2ec80392e0cdc03893&timestamp=1498638228&nonce=1051701759&openid=opUlWv3ogqIWlnw11xbxfoauP1jM
+ERR: 无法加载控制器:Wechat
+
+[ 2017-06-28T16:24:01+08:00 ] 113.215.65.219 /index.php?s=/Invicode/c=Invicode&a=index.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T16:26:55+08:00 ] 113.215.65.219 /index.php?s=/Invicode/c=Invicode&a=index.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T16:27:38+08:00 ] 113.215.65.219 /index.php?s=/Invicode/c=Invicode&a=index.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T16:27:44+08:00 ] 113.215.65.219 /index.php?s=/Invicode/c=Invicode&a=index.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T16:28:19+08:00 ] 113.215.65.219 /index.php?s=/Invicode/c=Invicode&a=signin.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T16:30:32+08:00 ] 113.215.65.219 /index.php?s=/Invicode/c=Invicode&a=signin.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T16:31:01+08:00 ] 113.215.65.219 /index.php?s=/Invicode/c=Invicode&a=signin.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T16:31:10+08:00 ] 113.215.65.219 /index.php?s=/Invicode/c=Invicode&a=signin.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T16:33:09+08:00 ] 113.215.65.219 /index.php?c=Invicode&a=signin
+ERR: 非法操作:signin
+
+[ 2017-06-28T16:33:19+08:00 ] 101.226.33.204 /index.php?c=Invicode&a=signin
+ERR: 非法操作:signin
+
+[ 2017-06-28T16:33:35+08:00 ] 113.215.65.219 /index.php?c=Invicode&a=signin
+ERR: 非法操作:signin
+
+[ 2017-06-28T16:36:26+08:00 ] 101.226.33.238 /index.php?s=/Invicode/c=Invicode&a=signin.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T16:37:42+08:00 ] 140.207.54.79 /index.php?c=Wechat&a=auth&signature=7bd2ded2ec8079f5ade089ef5e186c400d1c76ee&timestamp=1498639062&nonce=1113040907&openid=opUlWv3ogqIWlnw11xbxfoauP1jM
+ERR: 无法加载控制器:Wechat
+
+[ 2017-06-28T16:42:28+08:00 ] 101.226.33.203 /index.php?s=/Invicode/c=Invicode&a=signin.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T16:49:26+08:00 ] 101.226.66.178 /index.php?s=/Invicode/c=Invicode&a=signin.html
+ERR: 非法操作:c=Invicode
+
+[ 2017-06-28T17:10:51+08:00 ] 113.215.65.219 /index.php?s=/Invicode/inputIni.html
+ERR: Think\Model:updateInvicode方法不存在！
+
+[ 2017-06-28T17:57:51+08:00 ] 113.215.65.219 /index.php?s=/Invicode/inputIni.html
+ERR: 1146:Table 'tgwu.tgwu_invicode' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tgwu_invicode`
+
+[ 2017-06-28T17:58:39+08:00 ] 113.215.65.219 /index.php?s=/Invicode/inputIni.html
+ERR: 1054:Unknown column 'ttyy' in 'where clause'
+ [ SQL语句 ] : UPDATE `tgwu_invitation` SET `id`='20',`invitationUtime`='1498643919' WHERE ( invitationCode = ttyy )
+
+[ 2017-06-28T18:19:45+08:00 ] 113.215.65.219 /index.php?s=/Invicode/inputIni.html
+ERR: 1062:Duplicate entry '20' for key 'PRIMARY'
+ [ SQL语句 ] : UPDATE `tgwu_invitation` SET `id`='20',`invitationUtime`='1498645185' WHERE ( invitationCode = "4BB3UU" )
+
+[ 2017-06-28T18:25:39+08:00 ] 113.215.65.219 /index.php?s=/Index/collect.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0006s ]
+SQL: UPDATE `tgwu_wares` SET `collTimes`=collTimes+1 WHERE ( id = 17 ) [ RunTime:0.0075s ]
+
+[ 2017-06-28T18:42:32+08:00 ] 113.215.65.219 /index.php?s=/Invicode/index.html
+ERR: Think\Model:getInfoByUserOpenId方法不存在！
+
+[ 2017-06-28T18:43:06+08:00 ] 113.215.65.219 /index.php?s=/Invicode/index.html
+ERR: Think\Model:getInfoByUserOpenId方法不存在！
+
+[ 2017-06-28T18:48:20+08:00 ] 113.215.65.219 /index.php?s=/Index/collect.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+SQL: SHOW COLUMNS FROM `tgwu_user` [ RunTime:0.0005s ]
+SQL: SELECT `id` FROM `tgwu_user` WHERE ( openId = "opUlWvwWM6E9kwGX86F4aiVe0s10" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `tgwu_usercoll` [ RunTime:0.0003s ]
+ERR: Think\Model:insert方法不存在！
+
+[ 2017-06-28T18:48:23+08:00 ] 113.215.65.219 /index.php?s=/Index/collect.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000090s ]
+SQL: SHOW COLUMNS FROM `tgwu_user` [ RunTime:0.0006s ]
+SQL: SELECT `id` FROM `tgwu_user` WHERE ( openId = "opUlWvwWM6E9kwGX86F4aiVe0s10" ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `tgwu_usercoll` [ RunTime:0.0003s ]
+ERR: Think\Model:insert方法不存在！
+
+[ 2017-06-28T18:48:28+08:00 ] 113.215.65.219 /index.php?s=/Index/collect.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000100s ]
+SQL: SHOW COLUMNS FROM `tgwu_user` [ RunTime:0.0006s ]
+SQL: SELECT `id` FROM `tgwu_user` WHERE ( openId = "opUlWvwWM6E9kwGX86F4aiVe0s10" ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `tgwu_usercoll` [ RunTime:0.0004s ]
+ERR: Think\Model:insert方法不存在！
+
+[ 2017-06-28T18:48:38+08:00 ] 113.215.65.219 /index.php?s=/Index/collect.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000094s ]
+SQL: SHOW COLUMNS FROM `tgwu_user` [ RunTime:0.0006s ]
+SQL: SELECT `id` FROM `tgwu_user` WHERE ( openId = "opUlWvwWM6E9kwGX86F4aiVe0s10" ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `tgwu_usercoll` [ RunTime:0.0003s ]
+ERR: Think\Model:insert方法不存在！
+
+[ 2017-06-28T18:49:47+08:00 ] 113.215.65.219 /index.php?s=/Index/collect.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-06-28T18:52:43+08:00 ] 113.215.65.219 /index.php?s=/Index/collect.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+
+[ 2017-06-28T23:55:26+08:00 ] 140.205.225.192 /index.php?m=member&c=index&a=register&siteid=1
+ERR: 非法操作:register
+
+[ 2017-06-28T23:55:27+08:00 ] 140.205.225.192 /index.php?m=attachment&c=attachments&a=swfupload_json&aid=1&src=%26id=%*27a*nd%20ex*p(~(sele*ct%25*2afro*m(sele*ct+co*nc*at(0x7e,md5(233333),0x7e))x))%23%26m%3D1%26f%3Dtest%26modelid%3D2%26catid%3D6
+ERR: 无法加载控制器:Attachments
+

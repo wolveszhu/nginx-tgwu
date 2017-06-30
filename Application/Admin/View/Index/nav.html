@@ -1,0 +1,49 @@
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+
+        <a class="navbar-brand">糖果屋内容管理平台</a>
+    </div>
+    <!-- Top Menu Items -->
+    <ul class="nav navbar-right top-nav">
+
+
+        <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+                <li>
+                    <a href="{:U('Admin/personal')}"><i class="fa fa-fw fa-user"></i> 个人中心</a>
+                </li>
+
+                <li class="divider"></li>
+                <li>
+                    <a href="{:U('Login/logout')}"><i class="fa fa-fw fa-power-off"></i> 退出</a>
+                </li>
+            </ul>
+        </li>
+    </ul>
+    <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
+    <div class="collapse navbar-collapse navbar-ex1-collapse">
+        <ul class="nav navbar-nav side-nav nav_list">
+            <li>
+                <a href="{:U('Index/index')}"><i class="fa fa-fw fa-dashboard"></i>  首页</a>
+            </li>
+            <li>
+                <a href="{:U('Carousel/index')}"><i class="fa fa-fw fa-bar-chart-o"></i>  轮播图管理</a>
+            </li>
+            <li>
+                <a href="{:U('Invitation/index')}"><i class="fa fa-fw fa-bar-chart-o"></i>  邀请码管理</a>
+            </li>
+            <li>
+                <a href="{:U('Category/index')}"><i class="fa fa-fw fa-bar-chart-o"></i>  分类管理</a>
+            </li>
+            <li>
+                <a href="{:U('Wares/index')}"><i class="fa fa-fw fa-bar-chart-o"></i>  商品管理</a>
+            </li>
+            <li>
+                <a href="{:U('User/index')}"><i class="fa fa-fw fa-bar-chart-o"></i>  用户管理</a>
+            </li>
+        </ul>
+    </div>
+</nav>

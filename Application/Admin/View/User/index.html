@@ -1,0 +1,95 @@
+
+<include file="Index/header" />
+<body>
+
+<div id="wrapper">
+
+    <include file="Index/nav"/>
+
+    <div id="page-wrapper">
+
+        <div class="container-fluid">
+
+            <!-- Page Heading -->
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <ol class="breadcrumb">
+                        <li>
+                            <i class="fa fa-dashboard"></i>  <a href="{:U('index')}">用户管理</a>
+                        </li>
+                        <li class="active">
+                            <i class="fa fa-table"></i>用户管理
+                        </li>
+                    </ol>
+                </div>
+            </div>
+            <!-- /.row -->
+
+            <div class="row">
+                <div class="col-lg-10">
+                    <h3></h3>
+                    <div class="table-responsive">
+                        <form id="singcms-listorder">
+                            <table class="table table-bordered table-hover singcms-table">
+                                <thead>
+                                <tr>
+                                    <th>编号</th>
+                                    <th>昵称</th>
+                                    <th>密码</th>
+                                    <th>头像</th>
+                                    <th>收藏商品数</th>
+                                    <th>状态</th>
+                                    <th>操作</th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                <volist name="users" id="user">
+                                    <tr>
+                                        <td>{$user.id}</td>
+                                        <td>{$user.nickname}</td>
+                                        <td attr-id="{$user.id}" class="sing_cursor singcms-on-modify" id="singcms-on-modify">{$user.password}</td>
+                                        <td>{$user.userphoto|strsub}</td>
+                                        <td>{$user.usercollnum}</td>
+                                        <td><span  attr-status="<if condition="$user['status'] eq 1">0<else/>1</if>"  attr-id="{$user.id}" class="sing_cursor singcms-on-off" id="singcms-on-off">{$user.status|status}</span></td>
+                                        <td>
+                                            <a href="javascript:void(0)" attr-id="{$user.id}" id="singcms-delete"  attr-a="carousel" attr-message="删除"><span class="glyphicon glyphicon-remove-circle" aria-hidden="true"></span></a>
+                                            &nbsp;&nbsp;<a href="javascript:void(0)" attr-id="{$user.id}" id="singcms-edit"  attr-a="carousel" attr-message="修改"><span class="glyphicon glyphicon-edit" aria-hidden="true"></span></a>
+                                        </td>
+                                    </tr>
+                                </volist>
+                                </tbody>
+                            </table>
+                        </form>
+                        <nav class="pagination">
+                            <ul>{$page}</ul>
+                        </nav>
+                    </div>
+                </div>
+
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container-fluid -->
+
+    </div>
+    <!-- /#page-wrapper -->
+
+</div>
+<!-- /#wrapper -->
+<!-- Morris Charts JavaScript -->
+<script>
+    var SCOPE = {
+        'edit_url' : '{:U("edit")}',
+        'delete_url': '{:U("delete")}',
+        'set_status_url' : '{:U("setStatus")}',
+        'listorder_url' :'{:U("listorder")}',
+    }
+</script>
+
+<include file="Index/footer" />
+
+
+
+
+

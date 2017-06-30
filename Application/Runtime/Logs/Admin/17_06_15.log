@@ -1,0 +1,925 @@
+[ 2017-06-15T09:13:28+08:00 ] ::1 /tangguowu/admin.php/Login/Login/check
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:Login
+
+[ 2017-06-15T09:13:29+08:00 ] ::1 /tangguowu/admin.php/Login/Login/check
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:Login
+
+[ 2017-06-15T09:13:31+08:00 ] ::1 /tangguowu/admin.php/Login/Login/check
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 非法操作:Login
+
+[ 2017-06-15T09:13:35+08:00 ] ::1 /tangguowu/admin.php/Login/Login/check
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:Login
+
+[ 2017-06-15T09:19:01+08:00 ] ::1 /tangguowu/admin.php/Login/check
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_admin` [ RunTime:0.2790s ]
+SQL: SELECT * FROM `tgwu_admin` WHERE ( adminName="zhuyl" ) LIMIT 1   [ RunTime:0.0260s ]
+
+[ 2017-06-15T09:19:25+08:00 ] ::1 /tangguowu/admin.php/Login/check
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_admin` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `tgwu_admin` WHERE ( adminName="zhuyl" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-15T09:20:49+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-15T09:21:20+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\Apache24\htdocs\tangguowu\Application\Admin\Model\CarouselModel.class.php 第 32 行.
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+
+[ 2017-06-15T09:21:22+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\Apache24\htdocs\tangguowu\Application\Admin\Model\CarouselModel.class.php 第 32 行.
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+
+[ 2017-06-15T09:21:27+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0080s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\Apache24\htdocs\tangguowu\Application\Admin\Model\CarouselModel.class.php 第 32 行.
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+
+[ 2017-06-15T09:25:35+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0120s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\Apache24\htdocs\tangguowu\Application\Admin\Model\CarouselModel.class.php 第 32 行.
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+
+[ 2017-06-15T09:26:35+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0080s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\Apache24\htdocs\tangguowu\Application\Admin\Model\CarouselModel.class.php 第 32 行.
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+
+[ 2017-06-15T09:27:36+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\Apache24\htdocs\tangguowu\Application\Admin\Model\CarouselModel.class.php 第 32 行.
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+
+[ 2017-06-15T09:27:52+08:00 ] ::1 /tangguowu/admin.php/Carousel/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\Apache24\htdocs\tangguowu\Application\Admin\Model\CarouselModel.class.php 第 32 行.
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+
+[ 2017-06-15T09:29:31+08:00 ] ::1 /tangguowu/admin.php/Carousel/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-15T09:29:42+08:00 ] ::1 /tangguowu/admin.php/Carousel/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-15T09:29:46+08:00 ] ::1 /tangguowu/admin.php/Carousel/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-15T09:29:50+08:00 ] ::1 /tangguowu/admin.php/Carousel/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-15T09:29:57+08:00 ] ::1 /tangguowu/admin.php/Carousel/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0130s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\Apache24\htdocs\tangguowu\Application\Admin\Model\CarouselModel.class.php 第 32 行.
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+
+[ 2017-06-15T09:33:16+08:00 ] ::1 /tangguowu/admin.php/Carousel/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-15T09:33:21+08:00 ] ::1 /tangguowu/admin.php/Carousel/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-15T09:33:26+08:00 ] ::1 /tangguowu/admin.php/Carousel/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0100s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\Apache24\htdocs\tangguowu\Application\Admin\Model\CarouselModel.class.php 第 32 行.
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+
+[ 2017-06-15T09:35:02+08:00 ] ::1 /tangguowu/admin.php/Carousel/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-15T09:36:44+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\Apache24\htdocs\tangguowu\Application\Admin\Model\CarouselModel.class.php 第 32 行.
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+
+[ 2017-06-15T09:37:06+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0160s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\Apache24\htdocs\tangguowu\Application\Admin\Model\CarouselModel.class.php 第 32 行.
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+
+[ 2017-06-15T09:39:29+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0090s ]
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+
+[ 2017-06-15T09:41:01+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+ERR: 1364:Field 'carouselSort' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` () VALUES ()
+
+[ 2017-06-15T09:45:33+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0100s ]
+SQL: INSERT INTO `tgwu_carousel` (`carouselDesc`,`carouselSort`,`carouselStatus`,`carouselPath`) VALUES ('sd','43','1','fsdfsd') [ RunTime:0.1710s ]
+
+[ 2017-06-15T09:46:40+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0090s ]
+ERR: 1062:Duplicate entry '43' for key 'carousleSort'
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` (`carouselDesc`,`carouselSort`,`carouselStatus`,`carouselPath`) VALUES ('fsdf','43','1','fsd')
+ERR: 1062:Duplicate entry '43' for key 'carousleSort'
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` (`carouselDesc`,`carouselSort`,`carouselStatus`,`carouselPath`) VALUES ('fsdf','43','1','fsd')
+
+[ 2017-06-15T09:47:20+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+ERR: 1264:Out of range value for column 'carouselSort' at row 1
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` (`carouselDesc`,`carouselSort`,`carouselStatus`,`carouselPath`) VALUES ('fsdf','435','1','fsd')
+ERR: 1264:Out of range value for column 'carouselSort' at row 1
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` (`carouselDesc`,`carouselSort`,`carouselStatus`,`carouselPath`) VALUES ('fsdf','435','1','fsd')
+
+[ 2017-06-15T09:47:38+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+SQL: INSERT INTO `tgwu_carousel` (`carouselDesc`,`carouselSort`,`carouselStatus`,`carouselPath`) VALUES ('fsdf','35','1','fsd') [ RunTime:0.0390s ]
+
+[ 2017-06-15T09:59:18+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-06-15T10:02:00+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0080s ]
+ERR: 1062:Duplicate entry '5' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` (`carouselDesc`,`carouselSort`,`carouselPath`,`carouselId`) VALUES ('bingo','22','https://baidu.com','5')
+ERR: 1062:Duplicate entry '5' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` (`carouselDesc`,`carouselSort`,`carouselPath`,`carouselId`) VALUES ('bingo','22','https://baidu.com','5')
+
+[ 2017-06-15T10:02:01+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+ERR: 1062:Duplicate entry '5' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` (`carouselDesc`,`carouselSort`,`carouselPath`,`carouselId`) VALUES ('bingo','22','https://baidu.com','5')
+ERR: 1062:Duplicate entry '5' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` (`carouselDesc`,`carouselSort`,`carouselPath`,`carouselId`) VALUES ('bingo','22','https://baidu.com','5')
+
+[ 2017-06-15T10:03:42+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0080s ]
+ERR: 1062:Duplicate entry '5' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` (`carouselDesc`,`carouselSort`,`carouselPath`,`carouselId`) VALUES ('bingo','34','https://baidu.com','5')
+ERR: 1062:Duplicate entry '5' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` (`carouselDesc`,`carouselSort`,`carouselPath`,`carouselId`) VALUES ('bingo','34','https://baidu.com','5')
+
+[ 2017-06-15T10:03:47+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+ERR: 1062:Duplicate entry '5' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` (`carouselDesc`,`carouselSort`,`carouselPath`,`carouselId`) VALUES ('bingo','34','https://baidu.com','5')
+ERR: 1062:Duplicate entry '5' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `tgwu_carousel` (`carouselDesc`,`carouselSort`,`carouselPath`,`carouselId`) VALUES ('bingo','34','https://baidu.com','5')
+
+[ 2017-06-15T10:26:15+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselDesc`='fsdffsdfds',`carouselPath`='fsddfsgdf' WHERE ( carouselId=10 ) [ RunTime:0.0830s ]
+
+[ 2017-06-15T10:46:49+08:00 ] ::1 /tangguowu/admin.php/Carousel/index
+ERR: 1054:Unknown column 'carouselStatus' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `tgwu_carousel` ORDER BY `carouselStatus` desc,`id` desc 
+
+[ 2017-06-15T10:49:11+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0080s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselDesc`='fsdffsdfds',`carouselPath`='fsddfsgdf' WHERE ( id=10 ) [ RunTime:0.0440s ]
+
+[ 2017-06-15T10:49:21+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\Apache24\htdocs\tangguowu\Application\Admin\Controller\CarouselController.class.php 第 45 行.
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+SQL: INSERT INTO `tgwu_carousel` (`carouselDesc`,`carouselPath`) VALUES ('asdf','sfsd') [ RunTime:0.0350s ]
+
+[ 2017-06-15T11:13:24+08:00 ] ::1 /tangguowu/admin.php/Carousel/delete
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0210s ]
+SQL: DELETE FROM `tgwu_carousel` WHERE ( id=8 ) [ RunTime:0.0950s ]
+
+[ 2017-06-15T11:13:39+08:00 ] ::1 /tangguowu/admin.php/Carousel/delete
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+SQL: DELETE FROM `tgwu_carousel` WHERE ( id=11 ) [ RunTime:0.0290s ]
+
+[ 2017-06-15T11:15:00+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-15T11:15:01+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-15T11:15:02+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-15T11:15:02+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-15T11:15:03+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-15T11:15:03+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-15T11:15:06+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-15T13:21:02+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0190s ]
+NOTIC: 建议使用E方法替代throw_exception
+
+[ 2017-06-15T13:21:38+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+NOTIC: 建议使用E方法替代throw_exception
+
+[ 2017-06-15T13:21:38+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+NOTIC: 建议使用E方法替代throw_exception
+
+[ 2017-06-15T13:21:39+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+NOTIC: 建议使用E方法替代throw_exception
+
+[ 2017-06-15T13:21:39+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+NOTIC: 建议使用E方法替代throw_exception
+
+[ 2017-06-15T13:21:39+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+NOTIC: 建议使用E方法替代throw_exception
+
+[ 2017-06-15T13:21:39+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+NOTIC: 建议使用E方法替代throw_exception
+
+[ 2017-06-15T13:21:43+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+NOTIC: 建议使用E方法替代throw_exception
+
+[ 2017-06-15T13:22:07+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0080s ]
+NOTIC: 建议使用E方法替代throw_exception
+
+[ 2017-06-15T13:24:57+08:00 ] ::1 /tangguowu/admin.php/Carousel/delete
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0120s ]
+SQL: DELETE FROM `tgwu_carousel` WHERE ( id=10 ) [ RunTime:0.0420s ]
+
+[ 2017-06-15T13:25:10+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0030s ]
+NOTIC: 建议使用E方法替代throw_exception
+
+[ 2017-06-15T13:25:11+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0030s ]
+NOTIC: 建议使用E方法替代throw_exception
+
+[ 2017-06-15T13:25:17+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0100s ]
+NOTIC: 建议使用E方法替代throw_exception
+
+[ 2017-06-15T13:25:50+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+
+[ 2017-06-15T13:25:53+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+
+[ 2017-06-15T13:25:58+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+
+[ 2017-06-15T13:26:15+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+
+[ 2017-06-15T13:26:32+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0070s ]
+
+[ 2017-06-15T13:26:53+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0090s ]
+
+[ 2017-06-15T13:28:22+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0080s ]
+SQL: UPDATE `tgwu_carousel` SET `status`='1' WHERE ( id=7 ) [ RunTime:0.0410s ]
+
+[ 2017-06-15T13:33:58+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0080s ]
+SQL: UPDATE `tgwu_carousel` SET `status`='0' WHERE ( id=7 ) [ RunTime:0.0420s ]
+
+[ 2017-06-15T13:34:18+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0080s ]
+SQL: UPDATE `tgwu_carousel` SET `status`='1' WHERE ( id=7 ) [ RunTime:0.6010s ]
+
+[ 2017-06-15T13:44:44+08:00 ] ::1 /tangguowu/admin.php/Carousel/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `tgwu_carousel` ORDER BY `id` desc,`status` desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-15T13:53:43+08:00 ] ::1 /tangguowu/admin.php/Carousel/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `tgwu_carousel` ORDER BY `id` desc,`status` desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-15T13:54:03+08:00 ] ::1 /tangguowu/admin.php/Carousel/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0230s ]
+SQL: SELECT * FROM `tgwu_carousel` ORDER BY `id` desc,`status` desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-15T13:54:19+08:00 ] ::1 /tangguowu/admin.php/Carousel/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `tgwu_carousel` ORDER BY `id` desc,`status` desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-15T14:01:27+08:00 ] ::1 /tangguowu/admin.php/Carousel/listorder
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-15T14:01:29+08:00 ] ::1 /tangguowu/admin.php/Carousel/listorder
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-15T14:01:41+08:00 ] ::1 /tangguowu/admin.php/Carousel/listorder
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-15T14:16:56+08:00 ] ::1 /tangguowu/admin.php/Carousel/listorder
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0030s ]
+
+[ 2017-06-15T14:16:58+08:00 ] ::1 /tangguowu/admin.php/Carousel/undefined
+ERR: 非法操作:undefined
+
+[ 2017-06-15T14:17:06+08:00 ] ::1 /tangguowu/admin.php/Carousel/listorder
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0030s ]
+
+[ 2017-06-15T14:19:15+08:00 ] ::1 /tangguowu/admin.php/Carousel/listorder
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0040s ]
+
+[ 2017-06-15T14:19:40+08:00 ] ::1 /tangguowu/admin.php/Carousel/listorder
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0030s ]
+
+[ 2017-06-15T14:27:13+08:00 ] ::1 /tangguowu/admin.php/Carousel/listorder
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0050s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='55' WHERE ( id=7 ) [ RunTime:0.0430s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='26' WHERE ( id=6 ) [ RunTime:0.0500s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='20' WHERE ( id=5 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='10' WHERE ( id=4 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='45' WHERE ( id=3 ) [ RunTime:0.0280s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='12' WHERE ( id=2 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='23' WHERE ( id=1 ) [ RunTime:0.0290s ]
+
+[ 2017-06-15T14:27:15+08:00 ] ::1 /tangguowu/admin.php/Carousel/undefined
+ERR: 非法操作:undefined
+
+[ 2017-06-15T14:30:13+08:00 ] ::1 /tangguowu/admin.php/Carousel/listorder
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0040s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='40' WHERE ( id=7 ) [ RunTime:0.0330s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='26' WHERE ( id=6 ) [ RunTime:0.0450s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='20' WHERE ( id=5 ) [ RunTime:0.0300s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='10' WHERE ( id=4 ) [ RunTime:0.0500s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='45' WHERE ( id=3 ) [ RunTime:0.0280s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='12' WHERE ( id=2 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='23' WHERE ( id=1 ) [ RunTime:0.0290s ]
+
+[ 2017-06-15T14:30:15+08:00 ] ::1 /tangguowu/admin.php/Carousel/undefined
+ERR: 非法操作:undefined
+
+[ 2017-06-15T14:30:22+08:00 ] ::1 /tangguowu/admin.php/Carousel/undefined
+ERR: 非法操作:undefined
+
+[ 2017-06-15T14:30:33+08:00 ] ::1 /tangguowu/admin.php/Carousel/listorder
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0030s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='41' WHERE ( id=7 ) [ RunTime:0.0630s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='26' WHERE ( id=6 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='20' WHERE ( id=5 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='10' WHERE ( id=4 ) [ RunTime:0.0460s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='45' WHERE ( id=3 ) [ RunTime:0.0540s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='12' WHERE ( id=2 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='23' WHERE ( id=1 ) [ RunTime:0.0290s ]
+
+[ 2017-06-15T14:30:35+08:00 ] ::1 /tangguowu/admin.php/Carousel/undefined
+ERR: 非法操作:undefined
+
+[ 2017-06-15T14:30:56+08:00 ] ::1 /tangguowu/admin.php/Carousel/listorder
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0060s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='42' WHERE ( id=7 ) [ RunTime:0.0310s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='26' WHERE ( id=6 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='20' WHERE ( id=5 ) [ RunTime:0.0410s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='10' WHERE ( id=4 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='45' WHERE ( id=3 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='12' WHERE ( id=2 ) [ RunTime:0.0280s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='23' WHERE ( id=1 ) [ RunTime:0.0300s ]
+
+[ 2017-06-15T14:31:02+08:00 ] ::1 /tangguowu/admin.php/Carousel/undefined
+ERR: 非法操作:undefined
+
+[ 2017-06-15T14:31:44+08:00 ] ::1 /tangguowu/admin.php/Carousel/listorder
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0040s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='42' WHERE ( id=7 ) [ RunTime:0.0360s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='25' WHERE ( id=6 ) [ RunTime:0.0280s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='20' WHERE ( id=5 ) [ RunTime:0.0530s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='10' WHERE ( id=4 ) [ RunTime:0.0330s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='45' WHERE ( id=3 ) [ RunTime:0.0610s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='12' WHERE ( id=2 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='23' WHERE ( id=1 ) [ RunTime:0.0290s ]
+
+[ 2017-06-15T14:31:45+08:00 ] ::1 /tangguowu/admin.php/Carousel/undefined
+ERR: 非法操作:undefined
+
+[ 2017-06-15T14:33:36+08:00 ] ::1 /tangguowu/admin.php/Carousel/listorder
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0060s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='45' WHERE ( id=7 ) [ RunTime:0.0320s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='25' WHERE ( id=6 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='20' WHERE ( id=5 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='10' WHERE ( id=4 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='45' WHERE ( id=3 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='12' WHERE ( id=2 ) [ RunTime:0.0280s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='23' WHERE ( id=1 ) [ RunTime:0.0300s ]
+
+[ 2017-06-15T14:33:38+08:00 ] ::1 /tangguowu/admin.php/Carousel/%7B:U('index')%7D
+ERR: 非法操作:{:U('index')}
+
+[ 2017-06-15T14:34:21+08:00 ] ::1 /tangguowu/admin.php/Carousel/listorder
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0030s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='45' WHERE ( id=7 ) [ RunTime:0.0370s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='25' WHERE ( id=6 ) [ RunTime:0.0270s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='20' WHERE ( id=5 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='10' WHERE ( id=4 ) [ RunTime:0.0410s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='45' WHERE ( id=3 ) [ RunTime:0.0280s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='12' WHERE ( id=2 ) [ RunTime:0.0400s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='23' WHERE ( id=1 ) [ RunTime:0.0270s ]
+
+[ 2017-06-15T14:34:22+08:00 ] ::1 /tangguowu/admin.php/Carousel/%7B:U(%22index%22)%7D
+ERR: 非法操作:{:U("index")}
+
+[ 2017-06-15T14:34:38+08:00 ] ::1 /tangguowu/admin.php/Carousel/listorder
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0050s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='45' WHERE ( id=7 ) [ RunTime:0.0350s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='25' WHERE ( id=6 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='20' WHERE ( id=5 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='10' WHERE ( id=4 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='45' WHERE ( id=3 ) [ RunTime:0.0280s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='12' WHERE ( id=2 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='23' WHERE ( id=1 ) [ RunTime:0.0280s ]
+
+[ 2017-06-15T14:35:11+08:00 ] ::1 /tangguowu/admin.php/Carousel/listorder
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0040s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='45' WHERE ( id=7 ) [ RunTime:0.0330s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='25' WHERE ( id=6 ) [ RunTime:0.0590s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='20' WHERE ( id=5 ) [ RunTime:0.0710s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='10' WHERE ( id=4 ) [ RunTime:0.0620s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='45' WHERE ( id=3 ) [ RunTime:0.0830s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='12' WHERE ( id=2 ) [ RunTime:0.0540s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='23' WHERE ( id=1 ) [ RunTime:0.0280s ]
+
+[ 2017-06-15T14:36:07+08:00 ] ::1 /tangguowu/admin.php/Carousel/listorder
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0030s ]
+NOTIC: 建议使用E方法替代throw_exception
+
+[ 2017-06-15T14:36:12+08:00 ] ::1 /tangguowu/admin.php/Carousel/listorder
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0060s ]
+NOTIC: 建议使用E方法替代throw_exception
+
+[ 2017-06-15T14:46:38+08:00 ] ::1 /tangguowu/admin.php/Carousel/listorder
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0050s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='45' WHERE ( id=7 ) [ RunTime:0.0350s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='25' WHERE ( id=6 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='20' WHERE ( id=5 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='10' WHERE ( id=4 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='45' WHERE ( id=3 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='12' WHERE ( id=2 ) [ RunTime:0.0280s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='23' WHERE ( id=1 ) [ RunTime:0.0300s ]
+
+[ 2017-06-15T14:47:00+08:00 ] ::1 /tangguowu/admin.php/Carousel/listorder
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0060s ]
+
+[ 2017-06-15T14:47:38+08:00 ] ::1 /tangguowu/admin.php/Carousel/listorder
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0050s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='45' WHERE ( id=7 ) [ RunTime:0.0330s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='25' WHERE ( id=6 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='20' WHERE ( id=5 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='10' WHERE ( id=4 ) [ RunTime:0.0280s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='45' WHERE ( id=3 ) [ RunTime:0.0300s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='12' WHERE ( id=2 ) [ RunTime:0.0280s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='23' WHERE ( id=1 ) [ RunTime:0.0290s ]
+
+[ 2017-06-15T16:51:33+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0040s ]
+SQL: UPDATE `tgwu_carousel` SET `status`='0' WHERE ( id=7 ) [ RunTime:0.0860s ]
+
+[ 2017-06-15T16:51:49+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-15T16:51:58+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\Apache24\htdocs\tangguowu\Application\Admin\Controller\CarouselController.class.php 第 53 行.
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0140s ]
+SQL: INSERT INTO `tgwu_carousel` (`carouselDesc`,`status`,`carouselPath`) VALUES ('sdfsd','0','dfsdf') [ RunTime:0.1670s ]
+
+[ 2017-06-15T17:06:51+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-15T17:27:34+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-15T17:31:20+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-15T17:31:27+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id D:\Apache24\htdocs\tangguowu\Application\Admin\Controller\CarouselController.class.php 第 53 行.
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0260s ]
+SQL: INSERT INTO `tgwu_carousel` (`carouselDesc`,`carouselIcon`,`status`,`carouselPath`) VALUES ('tert','','1','tert') [ RunTime:0.1610s ]
+
+[ 2017-06-15T17:31:42+08:00 ] ::1 /tangguowu/admin.php/Carousel/delete
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0190s ]
+SQL: DELETE FROM `tgwu_carousel` WHERE ( id=13 ) [ RunTime:0.0780s ]
+
+[ 2017-06-15T17:31:50+08:00 ] ::1 /tangguowu/admin.php/Carousel/listorder
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0030s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='89' WHERE ( id=12 ) [ RunTime:0.0860s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='45' WHERE ( id=7 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='25' WHERE ( id=6 ) [ RunTime:0.0540s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='20' WHERE ( id=5 ) [ RunTime:0.0280s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='10' WHERE ( id=4 ) [ RunTime:0.0290s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='45' WHERE ( id=3 ) [ RunTime:0.0450s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='12' WHERE ( id=2 ) [ RunTime:0.0450s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselSort`='23' WHERE ( id=1 ) [ RunTime:0.0410s ]
+
+[ 2017-06-15T17:33:21+08:00 ] ::1 /tangguowu/admin.php/Carousel/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+

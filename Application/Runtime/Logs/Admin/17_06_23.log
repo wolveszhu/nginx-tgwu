@@ -1,0 +1,473 @@
+[ 2017-06-23T08:48:01+08:00 ] ::1 /tangguowu/admin.php/Login/check
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_admin` [ RunTime:0.1070s ]
+SQL: SELECT * FROM `tgwu_admin` WHERE ( adminName="zhuyl" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-23T08:48:07+08:00 ] ::1 /tangguowu/admin.php/Login/check
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_admin` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `tgwu_admin` WHERE ( adminName="zhuyunling" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-23T09:16:11+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-23T09:16:19+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T09:16:31+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T09:17:16+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-06-23T09:17:29+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T09:17:52+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-23T09:18:55+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T09:19:18+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T09:19:48+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T09:20:04+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T09:21:08+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T09:21:23+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T09:22:46+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-06-23T09:23:08+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T09:30:38+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T09:31:22+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T09:37:57+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T09:38:11+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T09:38:54+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-06-23T09:39:08+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-23T09:39:21+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T09:39:41+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T09:42:07+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-23T09:42:20+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T09:42:25+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T09:45:56+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T09:46:11+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T09:59:44+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: inviNum D:\Apache24\htdocs\tangguowu\Application\Admin\Controller\InvitationController.class.php 第 81 行.
+
+[ 2017-06-23T09:59:48+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: inviNum D:\Apache24\htdocs\tangguowu\Application\Admin\Controller\InvitationController.class.php 第 81 行.
+
+[ 2017-06-23T09:59:52+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: inviNum D:\Apache24\htdocs\tangguowu\Application\Admin\Controller\InvitationController.class.php 第 81 行.
+
+[ 2017-06-23T09:59:58+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: inviNum D:\Apache24\htdocs\tangguowu\Application\Admin\Controller\InvitationController.class.php 第 81 行.
+
+[ 2017-06-23T10:03:51+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T10:04:05+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T10:04:42+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T10:05:56+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-23T10:08:06+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-23T10:09:25+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T10:13:34+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T10:13:53+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T10:14:28+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-23T10:14:33+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T10:17:27+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T10:18:48+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T10:22:01+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-23T10:26:52+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T10:27:16+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T10:31:00+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-23T10:34:17+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T10:34:27+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T10:39:29+08:00 ] ::1 /tangguowu/admin.php/Carousel/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T10:43:18+08:00 ] ::1 /tangguowu/admin.php/Wares/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\Apache24\htdocs\tangguowu\Application\Admin\Controller\WaresController.class.php 第 57 行.
+SQL: SHOW COLUMNS FROM `tgwu_wares` [ RunTime:0.0210s ]
+SQL: INSERT INTO `tgwu_wares` (`wareName`,`categoryId`,`wareCover`,`wareMstChart`,`wareDesc`,`warePrice`,`status`,`wareCode`,`collTimes`,`browseTimes`,`inventory`,`discount`,`cutPrice`,`isNew`,`isHot`) VALUES ('we','5','/upload/2017/06/23/594c80332d5b3.png','/upload/2017/06/23/594c80362595c.png','qewqeqw','32','-1','243243','33','343','2323','0','0','-1','-1') [ RunTime:0.2540s ]
+
+[ 2017-06-23T10:53:21+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T10:53:53+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-23T10:59:56+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] date() expects at least 1 parameter, 0 given D:\Apache24\htdocs\tangguowu\Application\Admin\Controller\InvitationController.class.php 第 133 行.
+NOTIC: [2] date() expects at least 1 parameter, 0 given D:\Apache24\htdocs\tangguowu\Application\Admin\Controller\InvitationController.class.php 第 133 行.
+NOTIC: [2] date() expects at least 1 parameter, 0 given D:\Apache24\htdocs\tangguowu\Application\Admin\Controller\InvitationController.class.php 第 133 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-23T11:02:56+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-23T11:12:51+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T11:22:43+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0050s ]
+ERR: 1364:Field 'invitationCode' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_invitation` () VALUES ()
+ERR: 1364:Field 'invitationCode' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tgwu_invitation` () VALUES ()
+
+[ 2017-06-23T11:29:48+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0150s ]
+ERR: 1292:Incorrect datetime value: '1498188588' for column 'invitationCtime' at row 1
+ [ SQL语句 ] : INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('RLBPIV','1498188588','1500780588')
+ERR: 1292:Incorrect datetime value: '1498188588' for column 'invitationCtime' at row 1
+ [ SQL语句 ] : INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('RLBPIV','1498188588','1500780588')
+
+[ 2017-06-23T11:32:15+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] date() expects at least 1 parameter, 0 given D:\Apache24\htdocs\tangguowu\Application\Admin\Controller\InvitationController.class.php 第 144 行.
+NOTIC: [2] date() expects at least 1 parameter, 0 given D:\Apache24\htdocs\tangguowu\Application\Admin\Controller\InvitationController.class.php 第 144 行.
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0040s ]
+ERR: 1292:Incorrect datetime value: '1498188735' for column 'invitationCtime' at row 1
+ [ SQL语句 ] : INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('856URA','1498188735','1500780735')
+ERR: 1292:Incorrect datetime value: '1498188735' for column 'invitationCtime' at row 1
+ [ SQL语句 ] : INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('856URA','1498188735','1500780735')
+
+[ 2017-06-23T11:39:23+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0060s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('TD8KQ5','1498189163','1500781163') [ RunTime:0.0380s ]
+ERR: 1062:Duplicate entry '0' for key 'nickName'
+ [ SQL语句 ] : INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('MJQAHK','1498189163','1500781163')
+ERR: 1062:Duplicate entry '0' for key 'nickName'
+ [ SQL语句 ] : INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('MJQAHK','1498189163','1500781163')
+
+[ 2017-06-23T11:40:19+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0050s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('4IPTNN','1498189219','1500781219') [ RunTime:0.0280s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('CIK8PJ','1498189219','1500781219') [ RunTime:0.0310s ]
+NOTIC: [8] Undefined variable: errors D:\Apache24\htdocs\tangguowu\Application\Admin\Controller\InvitationController.class.php 第 104 行.
+
+[ 2017-06-23T13:06:37+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0060s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('4BB3UU','1498194397','1503378397') [ RunTime:0.0320s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('TEHDJC','1498194397','1503378397') [ RunTime:0.0310s ]
+NOTIC: [8] Undefined variable: errors D:\Apache24\htdocs\tangguowu\Application\Admin\Controller\InvitationController.class.php 第 104 行.
+
+[ 2017-06-23T13:11:26+08:00 ] ::1 /tangguowu/admin.php/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0050s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('0NEF6V','1498194686','-1') [ RunTime:0.0350s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('DCDOU7','1498194686','-1') [ RunTime:0.0530s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('ESG75B','1498194686','-1') [ RunTime:0.0580s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('N1N1G3','1498194686','-1') [ RunTime:0.0310s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('ATVJLB','1498194686','-1') [ RunTime:0.0270s ]
+NOTIC: [8] Undefined variable: errors D:\Apache24\htdocs\tangguowu\Application\Admin\Controller\InvitationController.class.php 第 104 行.
+
+[ 2017-06-23T17:01:47+08:00 ] ::1 /tangguowu/admin.php/Carousel/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-23T17:01:51+08:00 ] ::1 /tangguowu/admin.php/Carousel/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-23T17:02:36+08:00 ] ::1 /tangguowu/admin.php/Carousel/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-23T17:04:23+08:00 ] ::1 /tangguowu/admin.php/Carousel/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0060s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselDesc`='发斯蒂芬',`carouselIcon`='/upload/2017/06/23/594cd9963ee4f.png',`carouselPath`='https://baidu.com' WHERE ( id=7 ) [ RunTime:0.2230s ]
+
+[ 2017-06-23T17:06:50+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0160s ]
+SQL: UPDATE `tgwu_carousel` SET `status`='1' WHERE ( id=7 ) [ RunTime:0.0650s ]
+
+[ 2017-06-23T17:07:00+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0040s ]
+SQL: UPDATE `tgwu_carousel` SET `status`='0' WHERE ( id=19 ) [ RunTime:0.0360s ]
+
+[ 2017-06-23T17:07:08+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0040s ]
+SQL: UPDATE `tgwu_carousel` SET `status`='0' WHERE ( id=20 ) [ RunTime:0.0310s ]
+
+[ 2017-06-23T17:07:11+08:00 ] ::1 /tangguowu/admin.php/Carousel/setStatus.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0040s ]
+SQL: UPDATE `tgwu_carousel` SET `status`='0' WHERE ( id=4 ) [ RunTime:0.0520s ]
+
+[ 2017-06-23T17:17:57+08:00 ] ::1 /tangguowu/admin.php/Carousel/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0030s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselDesc`='发斯蒂芬',`carouselIcon`='/upload/2017/06/23/594cdcc41cd96.png',`carouselPath`='https://baidu.com' WHERE ( id=7 ) [ RunTime:0.0530s ]
+
+[ 2017-06-23T17:18:10+08:00 ] ::1 /tangguowu/admin.php/Carousel/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0030s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselDesc`='bingo',`carouselIcon`='/upload/2017/06/23/594cdcd053f39.png',`carouselPath`='https://baidu.com' WHERE ( id=5 ) [ RunTime:0.0740s ]
+
+[ 2017-06-23T17:18:18+08:00 ] ::1 /tangguowu/admin.php/Carousel/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0030s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselDesc`='520大作战',`carouselIcon`='/upload/2017/06/23/594cdcd89734a.png',`carouselPath`='https://baidu.com' WHERE ( id=1 ) [ RunTime:0.0530s ]
+
+[ 2017-06-23T17:18:32+08:00 ] ::1 /tangguowu/admin.php/Carousel/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0140s ]
+SQL: UPDATE `tgwu_carousel` SET `carouselDesc`='污聊大发',`carouselIcon`='/upload/2017/06/23/594cdce68edb1.png',`carouselPath`='https://baidu.com' WHERE ( id=2 ) [ RunTime:0.0300s ]
+

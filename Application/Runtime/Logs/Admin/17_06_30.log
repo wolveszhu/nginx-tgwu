@@ -1,0 +1,292 @@
+[ 2017-06-30T08:56:02+08:00 ] 58.101.1.224 /admin.php?c=Login&a=check
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000133s ]
+SQL: SHOW COLUMNS FROM `tgwu_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `tgwu_admin` WHERE ( adminName="zhuyunling" ) LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-06-30T09:04:01+08:00 ] 58.101.1.224 /admin.php?s=/Carousel/setStatus.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0006s ]
+SQL: UPDATE `tgwu_carousel` SET `status`='1' WHERE ( id=6 ) [ RunTime:0.0065s ]
+
+[ 2017-06-30T09:04:05+08:00 ] 58.101.1.224 /admin.php?s=/Carousel/setStatus.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+SQL: SHOW COLUMNS FROM `tgwu_carousel` [ RunTime:0.0007s ]
+SQL: UPDATE `tgwu_carousel` SET `status`='0' WHERE ( id=6 ) [ RunTime:0.0071s ]
+
+[ 2017-06-30T09:11:33+08:00 ] 58.101.1.224 /admin.php?s=/Category/edit.html?id=6
+ERR: 非法操作:edit.html?id=6
+
+[ 2017-06-30T09:11:43+08:00 ] 58.101.1.224 /admin.php?s=/Category/edit.html?id=3
+ERR: 非法操作:edit.html?id=3
+
+[ 2017-06-30T09:12:16+08:00 ] 58.101.1.224 /admin.php?s=/Category/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000126s ]
+SQL: SHOW COLUMNS FROM `tgwu_category` [ RunTime:0.0006s ]
+SQL: INSERT INTO `tgwu_category` (`categoryName`,`categoryIcon`,`status`,`id`) VALUES ('fd','/upload/2017/06/30/5955a56e42e86.png','0','0') [ RunTime:0.0071s ]
+
+[ 2017-06-30T09:12:26+08:00 ] 58.101.1.224 /admin.php?s=/Category/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+SQL: SHOW COLUMNS FROM `tgwu_category` [ RunTime:0.0006s ]
+SQL: DELETE FROM `tgwu_category` WHERE ( id = 10 ) [ RunTime:0.0055s ]
+
+[ 2017-06-30T09:12:29+08:00 ] 58.101.1.224 /admin.php?s=/Category/edit.html?id=9
+ERR: 非法操作:edit.html?id=9
+
+[ 2017-06-30T09:16:02+08:00 ] 58.101.1.224 /admin.php?s=/Category/edit.html?id=9
+ERR: 非法操作:edit.html?id=9
+
+[ 2017-06-30T09:16:31+08:00 ] 58.101.1.224 /admin.php?s=/Category/edit.html?id=6
+ERR: 非法操作:edit.html?id=6
+
+[ 2017-06-30T09:25:30+08:00 ] 58.101.1.224 /admin.php?s=/Category/edit.html?id=6
+ERR: 非法操作:edit.html?id=6
+
+[ 2017-06-30T09:25:59+08:00 ] 58.101.1.224 /admin.php?s=/Category/edit.html?id=6
+ERR: 非法操作:edit.html?id=6
+
+[ 2017-06-30T09:26:08+08:00 ] 58.101.1.224 /admin.php?s=/Category/edit.html?id=6
+ERR: 非法操作:edit.html?id=6
+
+[ 2017-06-30T09:28:23+08:00 ] 58.101.1.224 /admin.php?s=/Category/edit.html?id=6
+ERR: 非法操作:edit.html?id=6
+
+[ 2017-06-30T09:29:09+08:00 ] 58.101.1.224 /admin.php?s=/Category/edit.html?id=6
+ERR: 非法操作:edit.html?id=6
+
+[ 2017-06-30T09:29:43+08:00 ] 58.101.1.224 /admin.php?s=/Category/edit.html?id=6
+ERR: 非法操作:edit.html?id=6
+
+[ 2017-06-30T09:29:49+08:00 ] 58.101.1.224 /admin.php?s=/Category/edit.html?id=6
+ERR: 非法操作:edit.html?id=6
+
+[ 2017-06-30T09:45:51+08:00 ] 58.101.1.224 /admin.php?s=/Invitation/save.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000084s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0005s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('T6T8T4','1498787150','1501379150') [ RunTime:0.0072s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('19O74I','1498787150','1501379150') [ RunTime:0.0045s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('M5EGB9','1498787150','1501379150') [ RunTime:0.0054s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('L1UVF1','1498787150','1501379150') [ RunTime:0.0081s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('F8E8S4','1498787150','1501379150') [ RunTime:0.0051s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('LN0HG5','1498787150','1501379150') [ RunTime:0.0218s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('MSSEPE','1498787150','1501379150') [ RunTime:0.0078s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('73MON8','1498787150','1501379150') [ RunTime:0.0067s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('OSM3MQ','1498787150','1501379150') [ RunTime:0.0069s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('FICKPB','1498787150','1501379150') [ RunTime:0.0049s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('IV19SK','1498787150','1501379150') [ RunTime:0.0060s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('4TJRHK','1498787150','1501379150') [ RunTime:0.0077s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('ONSLBO','1498787150','1501379150') [ RunTime:0.0102s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('U71LS6','1498787150','1501379150') [ RunTime:0.0081s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('SOHDDG','1498787150','1501379150') [ RunTime:0.0067s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('MCHAPB','1498787150','1501379150') [ RunTime:0.0064s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('FLHEOA','1498787150','1501379150') [ RunTime:0.0064s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('VRR11T','1498787150','1501379150') [ RunTime:0.0058s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('20D6HU','1498787150','1501379150') [ RunTime:0.0016s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('FB2LGP','1498787150','1501379150') [ RunTime:0.0061s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('PVNKQR','1498787150','1501379150') [ RunTime:0.0059s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('84VJHN','1498787150','1501379150') [ RunTime:0.0053s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('6BBMD8','1498787150','1501379150') [ RunTime:0.0081s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('AKQKQN','1498787150','1501379150') [ RunTime:0.0055s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('HIN0JU','1498787150','1501379150') [ RunTime:0.0052s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('MBNN44','1498787150','1501379150') [ RunTime:0.0267s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('VE3VHP','1498787150','1501379150') [ RunTime:0.0056s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('UU0E94','1498787150','1501379150') [ RunTime:0.0016s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('0QKSRM','1498787150','1501379150') [ RunTime:0.0052s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('5LQ8SS','1498787150','1501379150') [ RunTime:0.0066s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('6BALHD','1498787150','1501379150') [ RunTime:0.0062s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('I14U75','1498787150','1501379150') [ RunTime:0.0046s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('SMRT5S','1498787150','1501379150') [ RunTime:0.0047s ]
+SQL: INSERT INTO `tgwu_invitation` (`invitationCode`,`invitationCtime`,`invitationEtime`) VALUES ('NTIH6E','1498787150','1501379150') [ RunTime:0.0057s ]
+NOTIC: [8] Undefined variable: errors /home/www/wxmsg/Application/Admin/Controller/InvitationController.class.php 第 104 行.
+
+[ 2017-06-30T09:46:17+08:00 ] 58.101.1.224 /admin.php?s=/Invitation/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0005s ]
+SQL: DELETE FROM `tgwu_invitation` WHERE ( id= 3 ) [ RunTime:0.0066s ]
+
+[ 2017-06-30T09:46:20+08:00 ] 58.101.1.224 /admin.php?s=/Invitation/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0007s ]
+SQL: DELETE FROM `tgwu_invitation` WHERE ( id= 2 ) [ RunTime:0.0058s ]
+
+[ 2017-06-30T09:46:24+08:00 ] 58.101.1.224 /admin.php?s=/Invitation/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000124s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0007s ]
+SQL: DELETE FROM `tgwu_invitation` WHERE ( id= 1 ) [ RunTime:0.0084s ]
+
+[ 2017-06-30T09:46:33+08:00 ] 58.101.1.224 /admin.php?s=/Invitation/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000171s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0008s ]
+SQL: DELETE FROM `tgwu_invitation` WHERE ( id= 10 ) [ RunTime:0.0075s ]
+
+[ 2017-06-30T09:46:36+08:00 ] 58.101.1.224 /admin.php?s=/Invitation/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0007s ]
+SQL: DELETE FROM `tgwu_invitation` WHERE ( id= 9 ) [ RunTime:0.0064s ]
+
+[ 2017-06-30T09:46:39+08:00 ] 58.101.1.224 /admin.php?s=/Invitation/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000084s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0005s ]
+SQL: DELETE FROM `tgwu_invitation` WHERE ( id= 8 ) [ RunTime:0.0084s ]
+
+[ 2017-06-30T09:46:43+08:00 ] 58.101.1.224 /admin.php?s=/Invitation/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000083s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0005s ]
+SQL: DELETE FROM `tgwu_invitation` WHERE ( id= 4 ) [ RunTime:0.0069s ]
+
+[ 2017-06-30T09:46:54+08:00 ] 58.101.1.224 /admin.php?s=/Invitation/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0006s ]
+SQL: DELETE FROM `tgwu_invitation` WHERE ( id= 13 ) [ RunTime:0.0058s ]
+
+[ 2017-06-30T09:46:58+08:00 ] 58.101.1.224 /admin.php?s=/Invitation/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000141s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0008s ]
+SQL: DELETE FROM `tgwu_invitation` WHERE ( id= 5 ) [ RunTime:0.0065s ]
+
+[ 2017-06-30T09:47:05+08:00 ] 58.101.1.224 /admin.php?s=/Invitation/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000150s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0005s ]
+SQL: DELETE FROM `tgwu_invitation` WHERE ( id= 22 ) [ RunTime:0.0062s ]
+
+[ 2017-06-30T09:47:09+08:00 ] 58.101.1.224 /admin.php?s=/Invitation/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000084s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0005s ]
+SQL: DELETE FROM `tgwu_invitation` WHERE ( id= 21 ) [ RunTime:0.0066s ]
+
+[ 2017-06-30T09:47:11+08:00 ] 58.101.1.224 /admin.php?s=/Invitation/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000125s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0008s ]
+SQL: DELETE FROM `tgwu_invitation` WHERE ( id= 20 ) [ RunTime:0.0067s ]
+
+[ 2017-06-30T09:47:14+08:00 ] 58.101.1.224 /admin.php?s=/Invitation/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0005s ]
+SQL: DELETE FROM `tgwu_invitation` WHERE ( id= 19 ) [ RunTime:0.0099s ]
+
+[ 2017-06-30T09:47:16+08:00 ] 58.101.1.224 /admin.php?s=/Invitation/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0005s ]
+SQL: DELETE FROM `tgwu_invitation` WHERE ( id= 18 ) [ RunTime:0.0069s ]
+
+[ 2017-06-30T09:47:19+08:00 ] 58.101.1.224 /admin.php?s=/Invitation/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0006s ]
+SQL: DELETE FROM `tgwu_invitation` WHERE ( id= 17 ) [ RunTime:0.0067s ]
+
+[ 2017-06-30T09:47:21+08:00 ] 58.101.1.224 /admin.php?s=/Invitation/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000101s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0007s ]
+SQL: DELETE FROM `tgwu_invitation` WHERE ( id= 16 ) [ RunTime:0.0059s ]
+
+[ 2017-06-30T09:47:24+08:00 ] 58.101.1.224 /admin.php?s=/Invitation/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0007s ]
+SQL: DELETE FROM `tgwu_invitation` WHERE ( id= 15 ) [ RunTime:0.0077s ]
+
+[ 2017-06-30T09:47:40+08:00 ] 58.101.1.224 /admin.php?s=/Invitation/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000090s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0006s ]
+SQL: DELETE FROM `tgwu_invitation` WHERE ( id= 12 ) [ RunTime:0.0062s ]
+
+[ 2017-06-30T09:47:49+08:00 ] 58.101.1.224 /admin.php?s=/Invitation/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0006s ]
+SQL: DELETE FROM `tgwu_invitation` WHERE ( id= 27 ) [ RunTime:0.0062s ]
+
+[ 2017-06-30T09:47:52+08:00 ] 58.101.1.224 /admin.php?s=/Invitation/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000084s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0005s ]
+SQL: DELETE FROM `tgwu_invitation` WHERE ( id= 28 ) [ RunTime:0.0062s ]
+
+[ 2017-06-30T09:47:54+08:00 ] 58.101.1.224 /admin.php?s=/Invitation/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0006s ]
+SQL: DELETE FROM `tgwu_invitation` WHERE ( id= 25 ) [ RunTime:0.0057s ]
+
+[ 2017-06-30T13:06:34+08:00 ] 58.101.1.224 /admin.php?c=Login&a=check
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000090s ]
+SQL: SHOW COLUMNS FROM `tgwu_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tgwu_admin` WHERE ( adminName="zhuyunling" ) LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-06-30T13:35:33+08:00 ] 58.101.1.224 /admin.php?s=/Invitation/delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+SQL: SHOW COLUMNS FROM `tgwu_invitation` [ RunTime:0.0006s ]
+SQL: DELETE FROM `tgwu_invitation` WHERE ( id= 23 ) [ RunTime:0.0064s ]
+
+[ 2017-06-30T13:36:31+08:00 ] 58.101.1.224 /admin.php?s=/User/update.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000083s ]
+
+[ 2017-06-30T13:43:51+08:00 ] 58.101.1.224 /admin.php?s=/User/setStatus.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+SQL: SHOW COLUMNS FROM `tgwu_user` [ RunTime:0.0007s ]
+SQL: UPDATE `tgwu_user` SET `status`='1' WHERE ( id = 6 ) [ RunTime:0.0070s ]
+
+[ 2017-06-30T13:46:30+08:00 ] 58.101.1.224 /admin.php?c=Login&a=check
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000151s ]
+SQL: SHOW COLUMNS FROM `tgwu_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `tgwu_admin` WHERE ( adminName="zhuyunling" ) LIMIT 1   [ RunTime:0.0001s ]
+

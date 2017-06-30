@@ -1,0 +1,25 @@
+<include file="Index/header"/>
+<body>
+    <div class="container scAll">
+        <div class="row">
+            <div class="col-xs-2 userPho"><img src="{$user.userphoto|getUrl}" class="img-circle user"></div>
+            <div class="col-xs-10">{$user.nickname}</div>
+        </div>
+        <div class="row proSc">
+            <div class="col-xs-2 userPho"><img src="__PUBLIC__/Image/coll.png" class="user"></div>
+            <div class="col-xs-10">我的收藏</div>
+        </div>
+    </div>
+</body>
+<script type="text/javascript">
+    var height = $(".userPho").height() - 10;
+    var user = $(".user");
+    user.attr("height",height);
+    user.attr("width",height);
+
+    var height = $(".proSc").height() - 10;
+    var user = $(".userSc");
+    user.attr("height",height);
+    user.attr("width",height);
+</script>
+</html>
